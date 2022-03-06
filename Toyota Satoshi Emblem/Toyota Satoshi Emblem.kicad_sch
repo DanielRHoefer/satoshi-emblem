@@ -7,7 +7,7 @@
   (title_block
     (title "Toyota Satoshi Emblem LED Board")
     (date "2022-02-16")
-    (rev "1.6")
+    (rev "1.7")
   )
 
   (lib_symbols
