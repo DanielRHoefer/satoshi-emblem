@@ -34,8 +34,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 5.5,
-          "width": 3.0
+          "height": 3.5,
+          "width": 4.5
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -383,7 +383,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "STEP Exports/Toyota Satoshi Emblem.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
