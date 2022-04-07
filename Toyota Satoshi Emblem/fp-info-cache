@@ -1,4 +1,4 @@
-19804085886157915
+19830466609810729
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84476,6 +84476,34 @@ varistor SIOV
 2
 2
 afootprints
+1N47xxA
+
+
+0
+2
+2
+afootprints
+1N5822
+
+
+0
+2
+2
+afootprints
+2N3904SMD
+
+
+0
+3
+3
+afootprints
+5KP16A
+
+
+0
+2
+2
+afootprints
 1206 R
 
 
@@ -84497,6 +84525,69 @@ afootprints
 3
 3
 afootprints
+ArduinoNano
+
+
+0
+30
+30
+afootprints
+BC327
+
+
+0
+3
+3
+afootprints
+BC337
+
+
+0
+3
+3
+afootprints
+CD147 12x12x7mm
+
+
+0
+2
+2
+afootprints
+IRF4905
+
+
+0
+3
+3
+afootprints
+IRLR7843
+
+
+0
+7
+3
+afootprints
+L7805
+
+
+0
+3
+3
+afootprints
+LM2576 TO-220
+
+
+0
+5
+5
+afootprints
+LM2596 Buck Converter
+
+
+0
+0
+0
+afootprints
 Pad 1
 
 
@@ -84510,3 +84601,24 @@ Pad 2
 0
 1
 1
+afootprints
+PoiLee 3-Pin
+
+
+0
+3
+3
+afootprints
+THTresistor
+
+
+0
+2
+2
+afootprints
+Univ_AUTO_Fuse
+
+
+0
+4
+2
