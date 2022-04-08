@@ -1,6 +1,6 @@
 (footprint "5730 LED W" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62245859)
+  (tedit 624F855B)
   (attr smd)
   (fp_text reference "REF**" (at 0.15 -1.5 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -18,9 +18,9 @@
   (fp_line (start 2.4 1.5) (end -2.4 1.5) (layer "F.SilkS") (width 0.12) (tstamp eaac0329-8cda-470a-89fd-676bf07e300c))
   (fp_rect (start -3.4 -1.5) (end 3.35 1.5) (layer "Dwgs.User") (width 0.12) (fill none) (tstamp 1e36a118-6b7e-4523-a4b7-4c88f954e46e))
   (fp_rect (start -2.85 -1.5) (end 2.85 1.5) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp c8121a8c-1af8-471b-9478-78c4085bb876))
+  (pad "" smd rect (at -0.3 0) (size 2.5 1.7) (layers "F.Cu" "F.Paste" "F.Mask" "Eco2.User") (tstamp 6f4e631e-a257-4ca6-ab24-95183f7b4492))
   (pad "1" smd rect (at -2.85 0) (size 1.1 1.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9000443d-241b-4fa4-8f82-e9e0715c5085))
   (pad "2" smd rect (at 2.85 0) (size 1.1 1.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 67b901fe-0af3-4e03-aafe-cf4f1dd4fba3))
-  (pad "3" smd rect (at -0.3 0) (size 2.5 1.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6f4e631e-a257-4ca6-ab24-95183f7b4492))
   (model "${KIPRJMOD}/amodels/5730 LED W.IGS"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))

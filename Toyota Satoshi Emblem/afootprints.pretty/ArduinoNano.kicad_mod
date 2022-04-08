@@ -1,6 +1,6 @@
 (footprint "ArduinoNano" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6245EBD7)
+  (tedit 62507C2C)
   (attr through_hole)
   (fp_text reference "REF**" (at 7.8 12.1 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
