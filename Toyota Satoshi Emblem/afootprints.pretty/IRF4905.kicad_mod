@@ -1,6 +1,6 @@
 (footprint "IRF4905" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62479CD2)
+  (tedit 6251D6DB)
   (attr through_hole)
   (fp_text reference "REF**" (at 2.6 -20.6) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
