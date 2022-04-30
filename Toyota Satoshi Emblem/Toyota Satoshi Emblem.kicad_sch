@@ -7,7 +7,7 @@
   (title_block
     (title "Toyota Satoshi Emblem LED Board")
     (date "2022-04-23")
-    (rev "2.1")
+    (rev "2.2")
     (comment 1 "Daniel Hoefer")
     (comment 2 "Daniel Hoefer")
     (comment 3 "NON_CONFIDENTIAL")
@@ -9234,7 +9234,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 146.05 85.725 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 00daf67f-35ab-455d-b0ca-ee04b9fd81ab)
     (property "Reference" "R58" (id 0) (at 143.51 83.185 90))
     (property "Value" "4.7" (id 1) (at 148.59 83.185 90))
@@ -9249,7 +9249,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 348.615 119.38 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 01075278-ece7-4256-b41f-cad6c5cd0b44)
     (property "Reference" "R113" (id 0) (at 348.615 116.84 90))
     (property "Value" "10K" (id 1) (at 349.885 121.92 90))
@@ -9264,7 +9264,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 73.025 31.115 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 010d4c25-3047-4e82-9722-4113a4b03be6)
     (property "Reference" "D17" (id 0) (at 70.485 27.305 0))
     (property "Value" "ALED" (id 1) (at 76.835 27.305 0))
@@ -9279,7 +9279,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 356.235 201.295 90) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0137ddef-8b9d-4065-a859-421aeb76b341)
     (property "Reference" "R158" (id 0) (at 361.95 200.025 90))
     (property "Value" "10K" (id 1) (at 351.155 200.025 90))
@@ -9294,7 +9294,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 193.04 73.025 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 01646721-097f-427b-b512-af20bc89e8fc)
     (property "Reference" "D123" (id 0) (at 194.31 69.215 0))
     (property "Value" "WLED" (id 1) (at 187.96 69.215 0))
@@ -9309,7 +9309,7 @@
   )
 
   (symbol (lib_id "Connector:Screw_Terminal_01x03") (at 320.675 34.29 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 01b61657-36bb-4444-a308-1d7e6eddbabf)
     (property "Reference" "J11" (id 0) (at 320.675 27.94 0))
     (property "Value" "Letter Terminal" (id 1) (at 317.5 33.02 90))
@@ -9325,7 +9325,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x03_Male") (at 138.43 60.325 90) (unit 1)
-    (in_bom no) (on_board no)
+    (in_bom no) (on_board no) (fields_autoplaced)
     (uuid 01d1008f-9a51-478e-9fdd-7cea583c0970)
     (property "Reference" "J2" (id 0) (at 142.24 56.515 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -9345,7 +9345,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 84.455 31.115 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 027678d1-8d0c-4483-a307-1d49c4460e12)
     (property "Reference" "D18" (id 0) (at 83.185 27.305 0))
     (property "Value" "ALED" (id 1) (at 89.535 27.305 0))
@@ -9360,7 +9360,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 36.195 85.725 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0323db2f-5bed-4224-a4cb-b42eb518e57a)
     (property "Reference" "D80" (id 0) (at 38.735 81.915 0))
     (property "Value" "WLED" (id 1) (at 33.655 81.915 0))
@@ -9375,7 +9375,7 @@
   )
 
   (symbol (lib_id "Switch:SW_DIP_x10") (at 389.255 203.835 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0337e778-f27e-4285-89d0-d960c4cbceb5)
     (property "Reference" "SW1" (id 0) (at 384.81 186.69 0))
     (property "Value" "SW_DIP_x10" (id 1) (at 394.335 186.69 0))
@@ -9408,7 +9408,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 371.475 227.33 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 03588dcf-9f37-4714-a119-dabbfc4f9e69)
     (property "Reference" "D208" (id 0) (at 368.3 229.87 0))
     (property "Value" "LED" (id 1) (at 375.285 229.235 0))
@@ -9423,7 +9423,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 167.64 98.425 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 03acdbe9-8b29-4eef-848c-6a0de6d7f7c4)
     (property "Reference" "D120" (id 0) (at 166.37 94.615 0))
     (property "Value" "ALED" (id 1) (at 172.72 94.615 0))
@@ -9438,7 +9438,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 356.235 206.375 90) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 03cff5da-b254-4721-bd98-8d39b81cdc36)
     (property "Reference" "R162" (id 0) (at 361.95 205.105 90))
     (property "Value" "10K" (id 1) (at 351.155 205.105 90))
@@ -9453,7 +9453,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 76.835 158.75 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 04020ee5-1fdc-4894-ba46-187f7c1d7271)
     (property "Reference" "D175" (id 0) (at 74.295 154.94 0))
     (property "Value" "ALED" (id 1) (at 80.645 154.94 0))
@@ -9468,7 +9468,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 36.195 37.465 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 040978df-8828-43b6-aaf6-6b9e5fc1267d)
     (property "Reference" "D8" (id 0) (at 38.735 33.655 0))
     (property "Value" "WLED" (id 1) (at 33.655 33.655 0))
@@ -9483,7 +9483,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 36.195 98.425 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 04cff41f-ccb0-481b-8089-c472087040ae)
     (property "Reference" "D84" (id 0) (at 38.735 94.615 0))
     (property "Value" "WLED" (id 1) (at 33.655 94.615 0))
@@ -9498,7 +9498,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 193.04 43.815 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 06516fcf-a910-4018-92d4-c821b574a97f)
     (property "Reference" "D57" (id 0) (at 194.31 40.005 0))
     (property "Value" "WLED" (id 1) (at 187.96 40.005 0))
@@ -9513,7 +9513,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 146.685 198.12 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0656bf8d-4895-46e0-9b0a-722672426619)
     (property "Reference" "R138" (id 0) (at 147.32 193.675 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -9548,7 +9548,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 47.625 66.675 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0820795a-d6a6-474d-968a-a24ebfc524b0)
     (property "Reference" "R37" (id 0) (at 50.165 64.135 90))
     (property "Value" "4.7" (id 1) (at 45.085 64.135 90))
@@ -9563,7 +9563,7 @@
   )
 
   (symbol (lib_id "Transistor_BJT:2N3904") (at 346.075 125.73 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0853ff58-e64d-4143-b5e8-4b7ceedfdc16)
     (property "Reference" "Q22" (id 0) (at 349.885 130.175 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -9583,7 +9583,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 348.615 22.86 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 088247b8-287d-420a-8adc-98807fe5f101)
     (property "Reference" "R97" (id 0) (at 348.615 20.32 90))
     (property "Value" "10K" (id 1) (at 349.885 25.4 90))
@@ -9598,7 +9598,7 @@
   )
 
   (symbol (lib_id "power:GND") (at 292.1 105.41 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 093f6b4c-9e52-4be6-9c6d-3299a8d3ba4f)
     (property "Reference" "#PWR02" (id 0) (at 292.1 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -9614,7 +9614,7 @@
   )
 
   (symbol (lib_id "Diode:1N4007") (at 153.035 243.205 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 09498187-2b21-48c0-9d30-667dc6dac433)
     (property "Reference" "D203" (id 0) (at 153.035 240.665 0))
     (property "Value" "1N4007" (id 1) (at 151.765 245.745 0))
@@ -9647,7 +9647,7 @@
   )
 
   (symbol (lib_id "Connector:Screw_Terminal_01x03") (at 111.125 184.15 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0c61c955-3767-4c5f-b11d-65c348b7e115)
     (property "Reference" "J23" (id 0) (at 111.125 177.8 0))
     (property "Value" "Raptor Terminal" (id 1) (at 107.315 184.15 90))
@@ -9663,7 +9663,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 146.05 43.815 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0c71c38c-ddd4-49b3-a22d-a57eb6608083)
     (property "Reference" "R23" (id 0) (at 143.51 41.275 90))
     (property "Value" "4.7" (id 1) (at 148.59 41.275 90))
@@ -9678,7 +9678,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 28.575 133.35 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0cccdb20-61fa-489f-bb8b-dc3c3ec90d34)
     (property "Reference" "D149" (id 0) (at 28.575 129.54 0))
     (property "Value" "WLED" (id 1) (at 22.225 129.54 0))
@@ -9693,7 +9693,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 51.435 177.8 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0d0995ef-b562-44c2-9182-eb4e3330f80f)
     (property "Reference" "R91" (id 0) (at 53.975 175.26 90))
     (property "Value" "4.7" (id 1) (at 48.895 175.26 90))
@@ -9708,7 +9708,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 66.675 127 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0d3aca35-253c-41be-9b2a-caeb29100666)
     (property "Reference" "R77" (id 0) (at 64.135 124.46 90))
     (property "Value" "4.7" (id 1) (at 69.215 124.46 90))
@@ -9723,7 +9723,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 156.21 79.375 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0dc036d6-06e9-45bc-9789-b1a15e401250)
     (property "Reference" "D113" (id 0) (at 153.67 75.565 0))
     (property "Value" "ALED" (id 1) (at 160.02 75.565 0))
@@ -9738,7 +9738,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 159.385 182.88 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0e1d132e-a79e-4893-b1a5-291898cad26d)
     (property "Reference" "R136" (id 0) (at 154.94 180.34 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -9757,7 +9757,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x03_Male") (at 81.915 209.55 90) (unit 1)
-    (in_bom no) (on_board no)
+    (in_bom no) (on_board no) (fields_autoplaced)
     (uuid 0e5ac56a-0245-462c-aec9-77d82f24a943)
     (property "Reference" "J10" (id 0) (at 73.66 205.105 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -9777,7 +9777,7 @@
   )
 
   (symbol (lib_id "Transistor_BJT:2N3904") (at 346.075 77.47 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1008f2dd-7392-40de-8ea9-c990f44c3bb7)
     (property "Reference" "Q12" (id 0) (at 349.885 81.915 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -9797,7 +9797,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 193.04 66.675 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 100ea000-82b2-47b8-b1ac-600768401c17)
     (property "Reference" "D121" (id 0) (at 194.31 62.865 0))
     (property "Value" "WLED" (id 1) (at 187.96 62.865 0))
@@ -9812,7 +9812,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 204.47 79.375 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 101cc522-4c5e-4faa-a99a-95f70d126c14)
     (property "Reference" "D126" (id 0) (at 207.01 75.565 0))
     (property "Value" "WLED" (id 1) (at 201.93 75.565 0))
@@ -9827,7 +9827,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 107.95 50.165 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1020a1ef-ded1-4fbf-bd69-97262312e977)
     (property "Reference" "D35" (id 0) (at 109.22 46.355 0))
     (property "Value" "WLED" (id 1) (at 102.87 46.355 0))
@@ -9842,7 +9842,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 231.14 31.115 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 10767f37-c76f-4f14-a778-33f1bf3ac125)
     (property "Reference" "R33" (id 0) (at 228.6 28.575 90))
     (property "Value" "4.7" (id 1) (at 233.68 28.575 90))
@@ -9857,7 +9857,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 204.47 37.465 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1097aecf-ba78-4d16-b968-e539a7eca1cf)
     (property "Reference" "D56" (id 0) (at 207.01 33.655 0))
     (property "Value" "WLED" (id 1) (at 201.93 33.655 0))
@@ -9872,7 +9872,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 119.38 92.075 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 115a196e-dc09-43cc-8288-3179b9a33599)
     (property "Reference" "D106" (id 0) (at 121.92 88.265 0))
     (property "Value" "WLED" (id 1) (at 116.84 88.265 0))
@@ -9887,7 +9887,7 @@
   )
 
   (symbol (lib_id "Device:C_Polarized") (at 107.315 236.855 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1267010f-0866-463b-902c-9dc755a206ea)
     (property "Reference" "C2" (id 0) (at 107.95 233.045 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -9906,7 +9906,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 84.455 37.465 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1298dcf4-2ebc-4546-86e8-878694ff80f2)
     (property "Reference" "D20" (id 0) (at 83.185 33.655 0))
     (property "Value" "ALED" (id 1) (at 89.535 33.655 0))
@@ -9921,7 +9921,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 76.835 171.45 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 133fb42f-e919-47e6-af9b-c56d79e9c842)
     (property "Reference" "D179" (id 0) (at 74.295 167.64 0))
     (property "Value" "ALED" (id 1) (at 80.645 167.64 0))
@@ -9936,7 +9936,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 146.05 92.075 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 139e77af-d2bd-43f2-a96d-9abd7428a3d0)
     (property "Reference" "R59" (id 0) (at 143.51 89.535 90))
     (property "Value" "4.7" (id 1) (at 148.59 89.535 90))
@@ -9951,7 +9951,7 @@
   )
 
   (symbol (lib_id "Transistor_FET:IRF4905") (at 161.925 231.775 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 14742c2c-9edd-4391-a874-64e776e4f81e)
     (property "Reference" "Q42" (id 0) (at 161.925 222.885 90))
     (property "Value" "IRF4905" (id 1) (at 161.925 225.425 90))
@@ -9967,7 +9967,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 107.95 31.115 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 153e1589-630f-45a8-8f90-d569f340a577)
     (property "Reference" "D29" (id 0) (at 109.22 27.305 0))
     (property "Value" "WLED" (id 1) (at 102.87 27.305 0))
@@ -9982,7 +9982,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 252.73 73.025 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 153e8b37-fc63-4508-83e6-7558eacd1870)
     (property "Reference" "D136" (id 0) (at 251.46 69.215 0))
     (property "Value" "ALED" (id 1) (at 257.81 69.215 0))
@@ -9997,7 +9997,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 146.05 31.115 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 156dc897-8ea3-47e7-bc76-bfe7d83d9262)
     (property "Reference" "R21" (id 0) (at 143.51 28.575 90))
     (property "Value" "4.7" (id 1) (at 148.59 28.575 90))
@@ -10012,7 +10012,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 88.265 165.1 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 157ae6a4-ef18-4f97-b39a-5900956a363d)
     (property "Reference" "D178" (id 0) (at 87.63 161.29 0))
     (property "Value" "ALED" (id 1) (at 93.98 161.29 0))
@@ -10027,7 +10027,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 159.385 207.01 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 162b1bae-fc51-423e-94a3-6d68d258663c)
     (property "Reference" "R141" (id 0) (at 154.94 204.47 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -10046,7 +10046,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 51.435 171.45 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1655316e-b314-46ce-948e-f5d875b520c9)
     (property "Reference" "R87" (id 0) (at 53.975 168.91 90))
     (property "Value" "4.7" (id 1) (at 48.895 168.91 90))
@@ -10061,7 +10061,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 156.21 18.415 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 166952f8-faf6-4e60-a4ca-d1def7805d03)
     (property "Reference" "D37" (id 0) (at 153.67 14.605 0))
     (property "Value" "ALED" (id 1) (at 160.02 14.605 0))
@@ -10076,7 +10076,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 156.21 98.425 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 16e6b18a-fbe5-4f5b-8b30-0b0d2db4ab94)
     (property "Reference" "D119" (id 0) (at 153.67 94.615 0))
     (property "Value" "ALED" (id 1) (at 160.02 94.615 0))
@@ -10091,7 +10091,7 @@
   )
 
   (symbol (lib_id "Connector:Screw_Terminal_01x02") (at 298.45 100.965 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 171a1340-2edc-4afb-9993-1e828e53055c)
     (property "Reference" "J18" (id 0) (at 302.26 102.235 0))
     (property "Value" "Power 2" (id 1) (at 300.99 106.68 0))
@@ -10106,7 +10106,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 107.95 66.675 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 17330bbc-d183-4053-9b9b-a0d6f7663a72)
     (property "Reference" "D97" (id 0) (at 109.22 62.865 0))
     (property "Value" "WLED" (id 1) (at 102.87 62.865 0))
@@ -10121,7 +10121,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 47.625 79.375 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 17b779d9-46e2-4c62-884e-923b57485e34)
     (property "Reference" "R39" (id 0) (at 50.165 76.835 90))
     (property "Value" "4,7" (id 1) (at 45.085 76.835 90))
@@ -10136,7 +10136,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 51.435 139.7 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 17b8f03d-6b79-416e-ae3d-8426204932a9)
     (property "Reference" "R79" (id 0) (at 53.975 137.16 90))
     (property "Value" "4.7" (id 1) (at 48.895 137.16 90))
@@ -10151,7 +10151,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 62.865 18.415 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1803d0f6-ede5-408c-93c8-6a98631a5556)
     (property "Reference" "R7" (id 0) (at 60.325 15.875 90))
     (property "Value" "4.7" (id 1) (at 65.405 15.875 90))
@@ -10166,7 +10166,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 36.195 50.165 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 18dc82c6-9d45-4606-998c-ea33a0ad82ff)
     (property "Reference" "D12" (id 0) (at 38.735 46.355 0))
     (property "Value" "WLED" (id 1) (at 33.655 46.355 0))
@@ -10181,7 +10181,7 @@
   )
 
   (symbol (lib_id "Diode:1N47xxA") (at 222.885 200.025 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 190513c8-74a2-4117-a822-7e0ee5339dad)
     (property "Reference" "D194" (id 0) (at 219.71 204.47 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -10200,7 +10200,7 @@
   )
 
   (symbol (lib_id "asymbols:IRLR7843") (at 408.305 119.38 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 190abab6-f118-48e3-aedc-0e0ce46e821c)
     (property "Reference" "Q18" (id 0) (at 406.4 114.935 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -10220,7 +10220,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 146.05 24.765 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 195b541b-0580-4c60-b246-4148c17351cf)
     (property "Reference" "R20" (id 0) (at 143.51 22.225 90))
     (property "Value" "4.7" (id 1) (at 148.59 22.225 90))
@@ -10235,7 +10235,7 @@
   )
 
   (symbol (lib_id "Regulator_Linear:L7805") (at 177.165 241.935 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 19a75b4d-2918-41b9-a2c8-32c7ce3151bc)
     (property "Reference" "U2" (id 0) (at 177.165 235.585 0))
     (property "Value" "L7805" (id 1) (at 177.165 238.125 0))
@@ -10251,7 +10251,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 130.81 98.425 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 19ca6835-aef6-4d69-8972-de76ba6f1b4f)
     (property "Reference" "R54" (id 0) (at 133.35 95.885 90))
     (property "Value" "4.7" (id 1) (at 128.27 95.885 90))
@@ -10266,7 +10266,7 @@
   )
 
   (symbol (lib_id "Transistor_BJT:2N3904") (at 136.525 203.2 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 19eca234-e270-47b6-ab60-118a1b67c529)
     (property "Reference" "Q40" (id 0) (at 139.7 207.01 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -10286,7 +10286,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 28.575 190.5 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1a1f39c9-5e21-4a40-8e2b-bb70d0c75367)
     (property "Reference" "D185" (id 0) (at 28.575 186.69 0))
     (property "Value" "WLED" (id 1) (at 22.225 186.69 0))
@@ -10301,7 +10301,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 241.3 31.115 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1a6c7e1d-b59d-4e75-a8fc-4e2698f5b286)
     (property "Reference" "D65" (id 0) (at 238.76 27.305 0))
     (property "Value" "ALED" (id 1) (at 245.11 27.305 0))
@@ -10316,7 +10316,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 28.575 127 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1abc0ec7-9066-4b32-bb3d-1ffe6d880bd7)
     (property "Reference" "D147" (id 0) (at 28.575 123.19 0))
     (property "Value" "WLED" (id 1) (at 22.225 123.19 0))
@@ -10331,7 +10331,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 215.9 37.465 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1abc46f8-c235-48c1-a50b-f41993ac0673)
     (property "Reference" "R28" (id 0) (at 218.44 34.925 90))
     (property "Value" "4.7" (id 1) (at 213.36 34.925 90))
@@ -10346,7 +10346,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 88.265 184.15 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1ad7e613-5796-46d9-a44d-f9e16236248b)
     (property "Reference" "D190" (id 0) (at 87.63 180.34 0))
     (property "Value" "ALED" (id 1) (at 93.98 180.34 0))
@@ -10361,7 +10361,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 66.675 146.05 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1b849695-02d3-4f92-8a23-9ca95796e606)
     (property "Reference" "R83" (id 0) (at 64.135 143.51 90))
     (property "Value" "4.7" (id 1) (at 69.215 143.51 90))
@@ -10376,7 +10376,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x03_Male") (at 223.52 60.325 90) (unit 1)
-    (in_bom no) (on_board no)
+    (in_bom no) (on_board no) (fields_autoplaced)
     (uuid 1c52078a-006a-4edd-9067-e62c7b830e80)
     (property "Reference" "J3" (id 0) (at 227.33 56.515 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -10396,7 +10396,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 215.9 98.425 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1c68281c-43a1-4222-8f2e-8c7d9e6a6ed4)
     (property "Reference" "R66" (id 0) (at 218.44 95.885 90))
     (property "Value" "4.7" (id 1) (at 213.36 95.885 90))
@@ -10411,7 +10411,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x03_Male") (at 66.675 209.55 90) (unit 1)
-    (in_bom no) (on_board no)
+    (in_bom no) (on_board no) (fields_autoplaced)
     (uuid 1cd7956c-6855-47de-b84b-4e7e0b8d9bba)
     (property "Reference" "J9" (id 0) (at 58.42 205.105 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -10431,7 +10431,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 204.47 50.165 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1db35e45-b4dc-41a3-9bf9-7c97c2f32e2e)
     (property "Reference" "D60" (id 0) (at 207.01 46.355 0))
     (property "Value" "WLED" (id 1) (at 201.93 46.355 0))
@@ -10446,7 +10446,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 406.4 191.135 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1dd2437f-1dd6-4aae-bfc1-74338180a5a7)
     (property "Reference" "R151" (id 0) (at 400.685 189.865 90))
     (property "Value" "1K" (id 1) (at 411.48 189.865 90))
@@ -10461,7 +10461,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x03_Male") (at 55.245 108.585 90) (unit 1)
-    (in_bom no) (on_board no)
+    (in_bom no) (on_board no) (fields_autoplaced)
     (uuid 1dd8b35e-03df-4aa6-b7e6-b67b95cbed96)
     (property "Reference" "J4" (id 0) (at 59.055 104.775 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -10481,7 +10481,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 107.95 79.375 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1ee050d7-d23e-4548-a532-a0de66cf3d76)
     (property "Reference" "D101" (id 0) (at 109.22 75.565 0))
     (property "Value" "WLED" (id 1) (at 102.87 75.565 0))
@@ -10496,7 +10496,7 @@
   )
 
   (symbol (lib_id "Connector:Screw_Terminal_01x02") (at 217.17 257.175 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1f0d8254-80b5-4794-a599-7594c86635a0)
     (property "Reference" "J24" (id 0) (at 213.36 258.445 0))
     (property "Value" "Serial 1" (id 1) (at 217.17 254 0))
@@ -10511,7 +10511,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 130.81 50.165 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1f3a90be-773e-4729-a71f-8e055bb993bc)
     (property "Reference" "R18" (id 0) (at 133.35 47.625 90))
     (property "Value" "4.7" (id 1) (at 128.27 47.625 90))
@@ -10526,7 +10526,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 51.435 120.65 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1f643731-5449-4c2a-85cf-45c208918382)
     (property "Reference" "R73" (id 0) (at 53.975 118.11 90))
     (property "Value" "4.7" (id 1) (at 48.895 118.11 90))
@@ -10541,7 +10541,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 40.005 146.05 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2270c1fb-1d5a-4195-98bc-e9d039c74161)
     (property "Reference" "D160" (id 0) (at 42.545 142.24 0))
     (property "Value" "WLED" (id 1) (at 36.195 142.24 0))
@@ -10572,7 +10572,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 73.025 43.815 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 241480a9-fbb6-44ca-9c13-f0d7450d51ad)
     (property "Reference" "D21" (id 0) (at 70.485 40.005 0))
     (property "Value" "ALED" (id 1) (at 76.835 40.005 0))
@@ -10587,7 +10587,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 167.64 50.165 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 243b70e3-a52d-4de2-a3f1-1a84e3d2c44f)
     (property "Reference" "D48" (id 0) (at 166.37 46.355 0))
     (property "Value" "ALED" (id 1) (at 172.72 46.355 0))
@@ -10602,7 +10602,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 146.05 79.375 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 25a07539-f1d6-415c-ab71-cc29bc9367a1)
     (property "Reference" "R57" (id 0) (at 143.51 76.835 90))
     (property "Value" "4.7" (id 1) (at 148.59 76.835 90))
@@ -10617,7 +10617,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 241.3 66.675 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 25a5ce9c-5a61-4faa-b578-06989562021e)
     (property "Reference" "D133" (id 0) (at 238.76 62.865 0))
     (property "Value" "ALED" (id 1) (at 245.11 62.865 0))
@@ -10632,7 +10632,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 84.455 85.725 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 25dadce8-e82c-498f-8aa3-800a67b5dc0a)
     (property "Reference" "D92" (id 0) (at 83.185 81.915 0))
     (property "Value" "ALED" (id 1) (at 89.535 81.915 0))
@@ -10647,7 +10647,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 84.455 43.815 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2659b73d-35bd-4a2e-900d-0c62ddc87cfa)
     (property "Reference" "D22" (id 0) (at 83.185 40.005 0))
     (property "Value" "ALED" (id 1) (at 89.535 40.005 0))
@@ -10662,7 +10662,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 406.4 203.835 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 26db0c82-ac9a-4351-bd46-62173b20c444)
     (property "Reference" "R161" (id 0) (at 400.685 202.565 90))
     (property "Value" "1K" (id 1) (at 411.48 202.565 90))
@@ -10677,7 +10677,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 88.265 120.65 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 28bc7436-655e-4b5a-8cf1-dbb1100e0cb5)
     (property "Reference" "D152" (id 0) (at 87.63 116.84 0))
     (property "Value" "ALED" (id 1) (at 93.98 116.84 0))
@@ -10692,7 +10692,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 36.195 79.375 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 291cf10b-de7e-4a06-aea9-a2b0c92e45b0)
     (property "Reference" "D78" (id 0) (at 38.735 75.565 0))
     (property "Value" "WLED" (id 1) (at 33.655 75.565 0))
@@ -10707,7 +10707,7 @@
   )
 
   (symbol (lib_id "Diode:1N47xxA") (at 234.315 223.52 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2978ee5e-65c7-44c9-b9de-c466ee57946d)
     (property "Reference" "D193" (id 0) (at 240.665 220.98 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -10726,7 +10726,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 269.875 55.88 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 29b4defd-75a5-4e02-97e0-8a43b3fdffab)
     (property "Reference" "D213" (id 0) (at 266.7 58.42 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -10745,7 +10745,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 241.3 50.165 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2b540b74-d0c2-420f-b075-d22bfa8f0b26)
     (property "Reference" "D71" (id 0) (at 238.76 46.355 0))
     (property "Value" "ALED" (id 1) (at 245.11 46.355 0))
@@ -10760,7 +10760,7 @@
   )
 
   (symbol (lib_id "Connector:Screw_Terminal_01x03") (at 320.675 58.42 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2b7bafed-7f56-4d12-b19a-bcefca65d502)
     (property "Reference" "J12" (id 0) (at 320.675 52.07 0))
     (property "Value" "Letter Terminal" (id 1) (at 317.5 57.15 90))
@@ -10776,7 +10776,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 73.025 37.465 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2bc22273-bb59-41bf-aa03-98b1b004b29c)
     (property "Reference" "D19" (id 0) (at 70.485 33.655 0))
     (property "Value" "ALED" (id 1) (at 76.835 33.655 0))
@@ -10791,7 +10791,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 40.005 165.1 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2c44f384-0900-4d9e-9821-17f7e85ebd9b)
     (property "Reference" "D172" (id 0) (at 42.545 161.29 0))
     (property "Value" "WLED" (id 1) (at 36.195 161.29 0))
@@ -10806,7 +10806,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 368.935 33.02 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2d5d5fc4-84da-4a54-85f6-87eaca191272)
     (property "Reference" "R100" (id 0) (at 370.205 30.48 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -10841,7 +10841,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 76.835 139.7 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2d7f757e-7afa-4494-b731-7e4330b2bc3b)
     (property "Reference" "D163" (id 0) (at 74.295 135.89 0))
     (property "Value" "ALED" (id 1) (at 80.645 135.89 0))
@@ -10856,7 +10856,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 252.73 24.765 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2dc98228-d238-4318-916b-d79b3f0e5f26)
     (property "Reference" "D64" (id 0) (at 251.46 20.955 0))
     (property "Value" "ALED" (id 1) (at 257.81 20.955 0))
@@ -10871,7 +10871,7 @@
   )
 
   (symbol (lib_id "power:GND") (at 197.485 213.995 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2e1784c2-e55b-4312-a534-27c854522072)
     (property "Reference" "#PWR0105" (id 0) (at 197.485 220.345 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -10887,7 +10887,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 84.455 79.375 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2e7a6848-2f92-4ced-a7af-717b378376ec)
     (property "Reference" "D90" (id 0) (at 83.185 75.565 0))
     (property "Value" "ALED" (id 1) (at 89.535 75.565 0))
@@ -10902,7 +10902,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 66.675 120.65 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2fa08758-aefe-4f4e-ac81-13fdf274c530)
     (property "Reference" "R76" (id 0) (at 64.135 118.11 90))
     (property "Value" "4.7" (id 1) (at 69.215 118.11 90))
@@ -10917,7 +10917,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 204.47 85.725 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2fc21404-1665-4f4e-8bb7-1964b6cd6124)
     (property "Reference" "D128" (id 0) (at 207.01 81.915 0))
     (property "Value" "WLED" (id 1) (at 201.93 81.915 0))
@@ -10932,7 +10932,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 204.47 31.115 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 30187786-0de4-4bc9-8351-85d42c1e4fe7)
     (property "Reference" "D54" (id 0) (at 207.01 27.305 0))
     (property "Value" "WLED" (id 1) (at 201.93 27.305 0))
@@ -10947,7 +10947,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 146.05 73.025 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 304a691a-156b-4cdd-aa14-6bbb5e873f2b)
     (property "Reference" "R56" (id 0) (at 143.51 70.485 90))
     (property "Value" "4.7" (id 1) (at 148.59 70.485 90))
@@ -10962,7 +10962,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 368.935 81.28 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 307547cc-0ef0-41ba-a9b9-4df8e1aec06e)
     (property "Reference" "R108" (id 0) (at 370.205 78.74 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -10981,7 +10981,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 215.9 73.025 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 309a15c1-4437-4841-bb5f-0993d9f357e0)
     (property "Reference" "R62" (id 0) (at 218.44 70.485 90))
     (property "Value" "4.7" (id 1) (at 213.36 70.485 90))
@@ -10996,7 +10996,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 51.435 127 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 30cb536f-3e36-4465-9a0a-b720016e40d1)
     (property "Reference" "R74" (id 0) (at 53.975 124.46 90))
     (property "Value" "4.7" (id 1) (at 48.895 124.46 90))
@@ -11011,7 +11011,7 @@
   )
 
   (symbol (lib_id "Diode:1N47xxA") (at 92.075 237.49 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 30d553a8-9bcd-4f37-b633-f50d5eaacb84)
     (property "Reference" "D202" (id 0) (at 92.71 233.045 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -11030,7 +11030,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 66.675 165.1 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 3228de7f-61c2-4d7b-a269-a8572d6caa88)
     (property "Reference" "R89" (id 0) (at 64.135 162.56 90))
     (property "Value" "4.7" (id 1) (at 69.215 162.56 90))
@@ -11045,7 +11045,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 119.38 31.115 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 33257519-feab-487f-8338-4f973530efae)
     (property "Reference" "D30" (id 0) (at 121.92 27.305 0))
     (property "Value" "WLED" (id 1) (at 116.84 27.305 0))
@@ -11060,7 +11060,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 368.935 153.67 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 347d29cc-7ea4-43a6-836c-2fa4dcd8c93d)
     (property "Reference" "R127" (id 0) (at 368.935 151.13 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -11079,7 +11079,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 356.235 72.39 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 34edfd61-fc6a-4486-a366-1abecf2725bd)
     (property "Reference" "R106" (id 0) (at 358.775 69.85 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -11098,7 +11098,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 36.195 92.075 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 35234821-c827-400a-85ce-af325f950da9)
     (property "Reference" "D82" (id 0) (at 38.735 88.265 0))
     (property "Value" "WLED" (id 1) (at 33.655 88.265 0))
@@ -11113,7 +11113,7 @@
   )
 
   (symbol (lib_id "Connector:Screw_Terminal_01x03") (at 320.675 106.68 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 352e8d93-03e5-466b-ab58-2ea69a95c625)
     (property "Reference" "J14" (id 0) (at 320.675 100.33 0))
     (property "Value" "Letter Terminal" (id 1) (at 317.5 105.41 90))
@@ -11129,7 +11129,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 231.14 18.415 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 3543332b-8d61-4ce5-a439-58bda8165259)
     (property "Reference" "R31" (id 0) (at 228.6 15.875 90))
     (property "Value" "4.7" (id 1) (at 233.68 15.875 90))
@@ -11144,7 +11144,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 107.95 98.425 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 355ac039-f4b5-4fc9-83fe-4e73bfa671ee)
     (property "Reference" "D107" (id 0) (at 109.22 94.615 0))
     (property "Value" "WLED" (id 1) (at 102.87 94.615 0))
@@ -11159,7 +11159,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x02_Male") (at 57.15 254 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 35fb77d4-b4b3-4598-b3be-eeda52a5bf1d)
     (property "Reference" "J28" (id 0) (at 53.34 250.825 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -11178,7 +11178,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 215.9 79.375 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 36cb5f84-b6c7-4012-9c4e-0ec908095091)
     (property "Reference" "R63" (id 0) (at 218.44 76.835 90))
     (property "Value" "4,7" (id 1) (at 213.36 76.835 90))
@@ -11193,7 +11193,7 @@
   )
 
   (symbol (lib_id "asymbols:+14V") (at 203.835 226.695 0) (unit 1)
-    (in_bom no) (on_board no)
+    (in_bom no) (on_board no) (fields_autoplaced)
     (uuid 36d3cdab-e989-4654-ae37-a29602ae065e)
     (property "Reference" "#P02" (id 0) (at 203.835 226.695 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -11211,7 +11211,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 146.05 50.165 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 37f0cb06-1e50-473a-a5c8-e1b78861c26a)
     (property "Reference" "R24" (id 0) (at 143.51 47.625 90))
     (property "Value" "4.7" (id 1) (at 148.59 47.625 90))
@@ -11226,7 +11226,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 130.81 18.415 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 37f4d9c3-4ab4-46f4-9fba-9d650eb958bf)
     (property "Reference" "R13" (id 0) (at 133.35 15.875 90))
     (property "Value" "4.7" (id 1) (at 128.27 15.875 90))
@@ -11241,7 +11241,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 51.435 146.05 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 38f5ff97-6b8e-4a82-80dc-7ebcab622e50)
     (property "Reference" "R80" (id 0) (at 53.975 143.51 90))
     (property "Value" "4.7" (id 1) (at 48.895 143.51 90))
@@ -11256,7 +11256,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 156.21 92.075 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 399f271a-1211-4245-a2d3-8c710d1c83cc)
     (property "Reference" "D117" (id 0) (at 153.67 88.265 0))
     (property "Value" "ALED" (id 1) (at 160.02 88.265 0))
@@ -11271,7 +11271,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 130.81 31.115 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 3abdca6f-71dc-4563-b36d-bbfefb7abecf)
     (property "Reference" "R15" (id 0) (at 133.35 28.575 90))
     (property "Value" "4,7" (id 1) (at 128.27 28.575 90))
@@ -11286,7 +11286,7 @@
   )
 
   (symbol (lib_id "Diode:1N47xxA") (at 234.315 237.49 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 3b8f5303-ec21-4d2d-a0f4-8d9099621a02)
     (property "Reference" "D198" (id 0) (at 240.665 234.95 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -11305,7 +11305,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 73.025 24.765 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 3cbb7783-7d77-423e-995a-15b189982482)
     (property "Reference" "D15" (id 0) (at 70.485 20.955 0))
     (property "Value" "ALED" (id 1) (at 76.835 20.955 0))
@@ -11320,7 +11320,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 62.865 92.075 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 3cc833a6-d231-43df-9eac-b991d6565330)
     (property "Reference" "R47" (id 0) (at 60.325 89.535 90))
     (property "Value" "4.7" (id 1) (at 65.405 89.535 90))
@@ -11335,7 +11335,7 @@
   )
 
   (symbol (lib_id "Device:Fuse") (at 66.675 229.235 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 3d10810b-70a1-4fef-ac99-a3d501cc7dbe)
     (property "Reference" "F1" (id 0) (at 67.945 226.695 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -11354,7 +11354,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x03_Male") (at 138.43 108.585 90) (unit 1)
-    (in_bom no) (on_board no)
+    (in_bom no) (on_board no) (fields_autoplaced)
     (uuid 3e4b6c0b-9c6d-4a05-83e5-ff6c29621a99)
     (property "Reference" "J5" (id 0) (at 142.24 104.775 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -11374,7 +11374,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 62.865 31.115 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 40fce37f-b487-4aeb-9799-078f913973e5)
     (property "Reference" "R9" (id 0) (at 60.325 28.575 90))
     (property "Value" "4.7" (id 1) (at 65.405 28.575 90))
@@ -11389,7 +11389,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 107.95 24.765 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 41c0cada-af0d-424e-a6fa-46a67c5f3a75)
     (property "Reference" "D27" (id 0) (at 109.22 20.955 0))
     (property "Value" "WLED" (id 1) (at 102.87 20.955 0))
@@ -11404,7 +11404,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 342.9 233.045 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 424604ef-dec1-44d5-accf-87072cefdb34)
     (property "Reference" "D207" (id 0) (at 339.725 235.585 0))
     (property "Value" "LED" (id 1) (at 346.71 234.95 0))
@@ -11419,7 +11419,7 @@
   )
 
   (symbol (lib_id "power:GND") (at 378.46 236.855 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4318194d-74a8-4eb9-9d1a-6867233c74c1)
     (property "Reference" "#PWR0101" (id 0) (at 378.46 243.205 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -11435,7 +11435,7 @@
   )
 
   (symbol (lib_id "asymbols:IRLR7843") (at 153.035 127 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 434c72af-bce5-447e-9037-ac349280aab6)
     (property "Reference" "Q23" (id 0) (at 154.94 121.285 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -11455,7 +11455,7 @@
   )
 
   (symbol (lib_id "asymbols:IRLR7843") (at 362.585 121.92 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 43c516dd-591b-42d2-bed8-807a978bcfe7)
     (property "Reference" "Q19" (id 0) (at 363.22 115.57 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -11475,7 +11475,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 231.14 98.425 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 441b88d4-122a-4af5-a66c-ebcee20d3fdf)
     (property "Reference" "R72" (id 0) (at 228.6 95.885 90))
     (property "Value" "4.7" (id 1) (at 233.68 95.885 90))
@@ -11490,7 +11490,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 122.555 248.285 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 446e8aa1-fac6-474e-839a-92eea97aa4a8)
     (property "Reference" "R145" (id 0) (at 123.825 247.015 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -11509,7 +11509,7 @@
   )
 
   (symbol (lib_id "asymbols:IRLR7843") (at 362.585 25.4 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 462c4daa-7bb6-4a85-b170-6c8d9876c6fc)
     (property "Reference" "Q3" (id 0) (at 363.22 19.05 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -11529,7 +11529,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 47.625 24.765 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4689bfe7-8b42-4495-b979-483258442905)
     (property "Reference" "R2" (id 0) (at 50.165 22.225 90))
     (property "Value" "4.7" (id 1) (at 45.085 22.225 90))
@@ -11544,7 +11544,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 73.025 66.675 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 46c231db-f6ce-4e01-98c5-dc1782f54eba)
     (property "Reference" "D85" (id 0) (at 70.485 62.865 0))
     (property "Value" "ALED" (id 1) (at 76.835 62.865 0))
@@ -11559,7 +11559,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 234.315 183.515 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 46e55e92-4416-4638-82b2-993707d0f6d1)
     (property "Reference" "R134" (id 0) (at 231.775 186.055 90))
     (property "Value" "1K" (id 1) (at 231.775 180.975 90))
@@ -11574,7 +11574,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 84.455 18.415 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 474f9306-5b9e-43aa-933a-21c50cf34209)
     (property "Reference" "D14" (id 0) (at 83.185 14.605 0))
     (property "Value" "ALED" (id 1) (at 89.535 14.605 0))
@@ -11589,7 +11589,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 356.235 96.52 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 486e12d4-3f7c-49b8-a01d-89ab374ed647)
     (property "Reference" "R110" (id 0) (at 358.775 93.98 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -11608,7 +11608,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 204.47 66.675 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 48e5cd45-9aec-4899-90df-12c8ddba98be)
     (property "Reference" "D122" (id 0) (at 207.01 62.865 0))
     (property "Value" "WLED" (id 1) (at 201.93 62.865 0))
@@ -11623,7 +11623,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 406.4 198.755 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 49007946-101f-4a9a-ba2c-c5a004c2070a)
     (property "Reference" "R157" (id 0) (at 400.685 197.485 90))
     (property "Value" "1K" (id 1) (at 411.48 197.485 90))
@@ -11638,7 +11638,7 @@
   )
 
   (symbol (lib_id "Device:C_Polarized") (at 188.595 249.555 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4b7e81c4-1344-4e85-ace8-c2e9aaf0ccc2)
     (property "Reference" "C3" (id 0) (at 183.515 245.745 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -11657,7 +11657,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 51.435 158.75 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4db84b6e-02e9-42ef-9d3a-032d4ff8ecb0)
     (property "Reference" "R85" (id 0) (at 53.975 156.21 90))
     (property "Value" " 4.7" (id 1) (at 48.895 156.21 90))
@@ -11672,7 +11672,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 76.835 165.1 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4f365398-3237-4378-8558-a2b61af58ea0)
     (property "Reference" "D177" (id 0) (at 74.295 161.29 0))
     (property "Value" "ALED" (id 1) (at 80.645 161.29 0))
@@ -11687,7 +11687,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 119.38 24.765 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4f66e6f7-817b-4227-ac9e-d2196c3295f5)
     (property "Reference" "D28" (id 0) (at 121.92 20.955 0))
     (property "Value" "WLED" (id 1) (at 116.84 20.955 0))
@@ -11702,7 +11702,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 252.73 43.815 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4f7dda6b-ec86-4bfb-814d-4cf520ed650c)
     (property "Reference" "D70" (id 0) (at 251.46 40.005 0))
     (property "Value" "ALED" (id 1) (at 257.81 40.005 0))
@@ -11717,7 +11717,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 40.005 139.7 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4fa090c1-9d46-4404-9d2b-8d14716d7327)
     (property "Reference" "D158" (id 0) (at 42.545 135.89 0))
     (property "Value" "WLED" (id 1) (at 36.195 135.89 0))
@@ -11732,7 +11732,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 269.875 36.83 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 50204257-e18c-4b6c-b5d3-98e234d8a9c3)
     (property "Reference" "R124" (id 0) (at 267.335 37.465 90))
     (property "Value" "50" (id 1) (at 272.415 36.83 90))
@@ -11747,7 +11747,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 156.21 37.465 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 5066f68b-3ce7-455c-ac9b-767b18ff7c07)
     (property "Reference" "D43" (id 0) (at 153.67 33.655 0))
     (property "Value" "ALED" (id 1) (at 160.02 33.655 0))
@@ -11762,7 +11762,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 51.435 165.1 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 506cfe68-ae63-45a6-a87e-0e0e2c9d09da)
     (property "Reference" "R86" (id 0) (at 53.975 162.56 90))
     (property "Value" "4.7" (id 1) (at 48.895 162.56 90))
@@ -11777,7 +11777,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 88.265 139.7 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 507f8e46-843b-45e6-80a8-7a4409142708)
     (property "Reference" "D164" (id 0) (at 87.63 135.89 0))
     (property "Value" "ALED" (id 1) (at 93.98 135.89 0))
@@ -11792,7 +11792,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 252.73 66.675 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 510ed000-3494-465a-ab78-df35bc11454e)
     (property "Reference" "D134" (id 0) (at 251.46 62.865 0))
     (property "Value" "ALED" (id 1) (at 257.81 62.865 0))
@@ -11807,7 +11807,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 62.865 50.165 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 51a14ebc-6ef5-4efb-b4c9-337ee93acc4c)
     (property "Reference" "R12" (id 0) (at 60.325 47.625 90))
     (property "Value" "4.7" (id 1) (at 65.405 47.625 90))
@@ -11822,7 +11822,7 @@
   )
 
   (symbol (lib_id "Connector:Screw_Terminal_01x02") (at 217.17 243.84 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 51b3c69a-771b-4b56-a8ef-6b5d6d0c11a1)
     (property "Reference" "J22" (id 0) (at 213.36 245.11 0))
     (property "Value" "Serial 2" (id 1) (at 217.17 240.665 0))
@@ -11837,7 +11837,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 36.195 43.815 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 5205c0e6-998a-433d-952d-22a02aaa81a7)
     (property "Reference" "D10" (id 0) (at 38.735 40.005 0))
     (property "Value" "WLED" (id 1) (at 33.655 40.005 0))
@@ -11852,7 +11852,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 406.4 206.375 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 52d9d45c-9b9d-4ab8-a4c5-9d9aea538cbd)
     (property "Reference" "R163" (id 0) (at 400.685 205.105 90))
     (property "Value" "1K" (id 1) (at 411.48 205.105 90))
@@ -11867,7 +11867,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 368.935 129.54 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 536c0b1d-d58d-4083-8230-24281915b3ad)
     (property "Reference" "R119" (id 0) (at 369.57 127 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -11886,7 +11886,7 @@
   )
 
   (symbol (lib_id "asymbols:IRLR7843") (at 191.135 172.72 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 53a681fb-ed82-4d40-be47-020fc981d948)
     (property "Reference" "Q34" (id 0) (at 187.96 168.91 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -11906,7 +11906,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 66.675 152.4 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 55066dbb-16e6-4151-b30c-403cf7f986ee)
     (property "Reference" "R84" (id 0) (at 64.135 149.86 90))
     (property "Value" "4.7" (id 1) (at 69.215 149.86 90))
@@ -11921,7 +11921,7 @@
   )
 
   (symbol (lib_id "asymbols:IRLR7843") (at 408.305 143.51 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 554c1e47-6883-486a-9afe-c13c91d0b4a1)
     (property "Reference" "Q26" (id 0) (at 406.4 139.065 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -11941,7 +11941,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 193.04 18.415 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 556cbb66-06f4-4577-b430-8af983b39cde)
     (property "Reference" "D49" (id 0) (at 194.31 14.605 0))
     (property "Value" "WLED" (id 1) (at 187.96 14.605 0))
@@ -11956,7 +11956,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 62.865 37.465 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 55892daa-3b58-4e61-a9dc-515d3da576e4)
     (property "Reference" "R10" (id 0) (at 60.325 34.925 90))
     (property "Value" "4.7" (id 1) (at 65.405 34.925 90))
@@ -11971,7 +11971,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 76.835 190.5 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 5618490f-d997-460f-923c-c3bf9928d982)
     (property "Reference" "D191" (id 0) (at 74.295 186.69 0))
     (property "Value" "ALED" (id 1) (at 80.645 186.69 0))
@@ -11986,7 +11986,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 241.3 79.375 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 56c9f726-23a7-436c-a208-50671fac6e71)
     (property "Reference" "D137" (id 0) (at 238.76 75.565 0))
     (property "Value" "ALED" (id 1) (at 245.11 75.565 0))
@@ -12001,7 +12001,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 193.04 98.425 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 56e4e31f-45c2-41d8-a50d-05d22cfbe8c9)
     (property "Reference" "D131" (id 0) (at 194.31 94.615 0))
     (property "Value" "WLED" (id 1) (at 187.96 94.615 0))
@@ -12016,7 +12016,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 406.4 213.995 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 57af6edd-fcb4-4635-a62d-b7086495b9b3)
     (property "Reference" "R169" (id 0) (at 400.685 212.725 90))
     (property "Value" "1K" (id 1) (at 411.48 212.725 90))
@@ -12031,7 +12031,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 231.14 24.765 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 57c60af5-dc59-4092-8865-a9fc0f9af8cf)
     (property "Reference" "R32" (id 0) (at 228.6 22.225 90))
     (property "Value" "4.7" (id 1) (at 233.68 22.225 90))
@@ -12046,7 +12046,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 204.47 43.815 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 57d82840-1383-4ba9-a08a-8ea54b6b108c)
     (property "Reference" "D58" (id 0) (at 207.01 40.005 0))
     (property "Value" "WLED" (id 1) (at 201.93 40.005 0))
@@ -12061,7 +12061,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 252.73 50.165 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 57f02218-e43b-413c-b93b-16b1111e82b5)
     (property "Reference" "D72" (id 0) (at 251.46 46.355 0))
     (property "Value" "ALED" (id 1) (at 257.81 46.355 0))
@@ -12076,7 +12076,7 @@
   )
 
   (symbol (lib_id "asymbols:IRLR7843") (at 125.095 196.85 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 58214775-e58a-4ae2-8a3a-a2018ea1ffc8)
     (property "Reference" "Q37" (id 0) (at 130.81 192.405 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -12096,7 +12096,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 28.575 165.1 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 58b1eab5-e491-48dd-895c-d99fff31def3)
     (property "Reference" "D171" (id 0) (at 28.575 161.29 0))
     (property "Value" "WLED" (id 1) (at 22.225 161.29 0))
@@ -12111,7 +12111,7 @@
   )
 
   (symbol (lib_id "asymbols:IRLR7843") (at 362.585 73.66 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 58d05d92-1a70-465b-8dcc-8d6a7594ec96)
     (property "Reference" "Q11" (id 0) (at 363.22 67.31 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -12131,7 +12131,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 252.73 31.115 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 5ab81da8-6c21-4d87-b3ee-5f6d5d00c3e3)
     (property "Reference" "D66" (id 0) (at 251.46 27.305 0))
     (property "Value" "ALED" (id 1) (at 257.81 27.305 0))
@@ -12146,7 +12146,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 51.435 190.5 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 5b0af2ab-2914-4347-994a-c7060942e3a7)
     (property "Reference" "R93" (id 0) (at 53.975 187.96 90))
     (property "Value" "4.7" (id 1) (at 48.895 187.96 90))
@@ -12161,7 +12161,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 406.4 208.915 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 5be36999-1df7-4fa0-9534-ca9cb9dc2588)
     (property "Reference" "R165" (id 0) (at 400.685 207.645 90))
     (property "Value" "1K" (id 1) (at 411.48 207.645 90))
@@ -12176,7 +12176,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 231.14 50.165 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 5c56d73e-9c5f-4985-95b1-c85aae788d20)
     (property "Reference" "R36" (id 0) (at 228.6 47.625 90))
     (property "Value" "4.7" (id 1) (at 233.68 47.625 90))
@@ -12191,7 +12191,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 356.235 144.78 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 5cb9b8d3-c87f-4ee8-8d38-895d93be5552)
     (property "Reference" "R122" (id 0) (at 358.775 142.24 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -12210,7 +12210,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 47.625 98.425 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 5ceea8a3-1c40-4228-bd23-3d24d07fe29a)
     (property "Reference" "R42" (id 0) (at 50.165 95.885 90))
     (property "Value" "4.7" (id 1) (at 45.085 95.885 90))
@@ -12225,7 +12225,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 356.235 198.755 90) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 5d88b9fd-fe43-4f3a-b154-400498c59d3b)
     (property "Reference" "R156" (id 0) (at 361.95 197.485 90))
     (property "Value" "10K" (id 1) (at 351.155 197.485 90))
@@ -12240,7 +12240,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 193.04 85.725 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 5f041da0-c14d-464c-9322-5eca12e88ca8)
     (property "Reference" "D127" (id 0) (at 194.31 81.915 0))
     (property "Value" "WLED" (id 1) (at 187.96 81.915 0))
@@ -12255,7 +12255,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 231.14 92.075 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 5f9dba6f-d029-4869-9543-024ea9432540)
     (property "Reference" "R71" (id 0) (at 228.6 89.535 90))
     (property "Value" "4.7" (id 1) (at 233.68 89.535 90))
@@ -12270,7 +12270,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 40.005 152.4 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 601d0d94-c75c-4bb9-a61a-8700fefc1d57)
     (property "Reference" "D162" (id 0) (at 42.545 148.59 0))
     (property "Value" "WLED" (id 1) (at 36.195 148.59 0))
@@ -12285,7 +12285,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 222.885 183.515 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 60dc6173-dc11-4ebe-9de8-a6cd80e7c969)
     (property "Reference" "R132" (id 0) (at 220.345 186.055 90))
     (property "Value" "1K" (id 1) (at 220.345 180.975 90))
@@ -12300,7 +12300,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 119.38 37.465 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6159cf88-c977-445a-845e-84688236e8f9)
     (property "Reference" "D32" (id 0) (at 121.92 33.655 0))
     (property "Value" "WLED" (id 1) (at 116.84 33.655 0))
@@ -12315,7 +12315,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 28.575 184.15 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 61f5e8eb-2e22-4ecd-9c2c-63979bd40597)
     (property "Reference" "D183" (id 0) (at 28.575 180.34 0))
     (property "Value" "WLED" (id 1) (at 22.225 180.34 0))
@@ -12330,7 +12330,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 119.38 50.165 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 622447f4-ffca-41e8-bc5c-9eda050f0b8e)
     (property "Reference" "D36" (id 0) (at 121.92 46.355 0))
     (property "Value" "WLED" (id 1) (at 116.84 46.355 0))
@@ -12345,7 +12345,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 167.64 92.075 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6299ac47-6c29-4be4-a3ee-2490f061912a)
     (property "Reference" "D118" (id 0) (at 166.37 88.265 0))
     (property "Value" "ALED" (id 1) (at 172.72 88.265 0))
@@ -12360,7 +12360,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 193.04 31.115 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 63934f7f-65a8-4b0e-94be-6074858a8869)
     (property "Reference" "D53" (id 0) (at 194.31 27.305 0))
     (property "Value" "WLED" (id 1) (at 187.96 27.305 0))
@@ -12375,7 +12375,7 @@
   )
 
   (symbol (lib_id "Transistor_BJT:2N3904") (at 136.525 130.81 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 646e38e8-7543-4c2f-bf38-1cf7d7c4dcb9)
     (property "Reference" "Q24" (id 0) (at 139.7 134.62 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -12395,7 +12395,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 24.765 37.465 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6504a21c-8402-4872-9f39-0262ed32f0ff)
     (property "Reference" "D7" (id 0) (at 26.035 33.655 0))
     (property "Value" "WLED" (id 1) (at 19.685 33.655 0))
@@ -12410,7 +12410,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 356.235 211.455 90) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 65df5f2d-6d21-4827-8bb4-96e1eb19deb3)
     (property "Reference" "R166" (id 0) (at 361.95 210.185 90))
     (property "Value" "10K" (id 1) (at 351.155 210.185 90))
@@ -12425,7 +12425,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 269.875 45.72 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 65fba4af-99da-4b2a-967d-7470a05e43ff)
     (property "Reference" "D212" (id 0) (at 266.7 48.26 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -12444,7 +12444,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 342.9 227.33 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 65fbdf60-54fa-4743-914b-a9c32960036e)
     (property "Reference" "D206" (id 0) (at 339.725 229.87 0))
     (property "Value" "LED" (id 1) (at 346.71 229.235 0))
@@ -12459,7 +12459,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 47.625 18.415 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 667adc60-6614-4256-a473-6bcbb70b022c)
     (property "Reference" "R1" (id 0) (at 50.165 15.875 90))
     (property "Value" "4.7" (id 1) (at 45.085 15.875 90))
@@ -12474,7 +12474,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 215.9 66.675 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 66bff3a7-8e3f-47b8-bc0b-0807738f043a)
     (property "Reference" "R61" (id 0) (at 218.44 64.135 90))
     (property "Value" "4.7" (id 1) (at 213.36 64.135 90))
@@ -12489,7 +12489,7 @@
   )
 
   (symbol (lib_id "asymbols:IRLR7843") (at 191.135 148.59 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 67241d85-d641-494f-b680-8bc9a2c70632)
     (property "Reference" "Q29" (id 0) (at 187.96 144.78 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -12525,7 +12525,7 @@
   )
 
   (symbol (lib_id "Diode:1N47xxA") (at 240.03 200.025 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 680d1386-33fc-41e1-bb3f-f6471ab7750f)
     (property "Reference" "D197" (id 0) (at 237.49 204.47 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -12544,7 +12544,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 76.835 127 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 68181007-9cdc-4d61-94d1-2782ac06d8dc)
     (property "Reference" "D153" (id 0) (at 74.295 123.19 0))
     (property "Value" "ALED" (id 1) (at 80.645 123.19 0))
@@ -12559,7 +12559,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 130.81 92.075 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6912604e-e19e-4842-879e-e89944c3af7d)
     (property "Reference" "R53" (id 0) (at 133.35 89.535 90))
     (property "Value" "4.7" (id 1) (at 128.27 89.535 90))
@@ -12574,7 +12574,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 241.3 98.425 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6a28405a-f209-4b1d-a0e3-9ad3657f6d89)
     (property "Reference" "D143" (id 0) (at 238.76 94.615 0))
     (property "Value" "ALED" (id 1) (at 245.11 94.615 0))
@@ -12589,7 +12589,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 62.865 66.675 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6a519e99-f54b-4362-938e-91d69b823a64)
     (property "Reference" "R43" (id 0) (at 60.325 64.135 90))
     (property "Value" "4.7" (id 1) (at 65.405 64.135 90))
@@ -12604,7 +12604,7 @@
   )
 
   (symbol (lib_id "asymbols:IRLR7843") (at 408.305 95.25 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6ab9e686-d2f2-4dca-a755-f2d84405bc00)
     (property "Reference" "Q14" (id 0) (at 406.4 90.805 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -12624,7 +12624,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 252.73 98.425 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6bd1c67c-e9da-4ec4-a937-06f935edb2ce)
     (property "Reference" "D144" (id 0) (at 251.46 94.615 0))
     (property "Value" "ALED" (id 1) (at 257.81 94.615 0))
@@ -12639,7 +12639,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 62.865 43.815 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6d10df2d-9f4d-4503-9c4d-50d0cc25c3b5)
     (property "Reference" "R11" (id 0) (at 60.325 41.275 90))
     (property "Value" "4.7" (id 1) (at 65.405 41.275 90))
@@ -12654,7 +12654,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 141.605 248.285 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6d45849d-fd9d-431a-8483-ccd474c7259d)
     (property "Reference" "R147" (id 0) (at 142.875 247.015 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -12673,7 +12673,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 204.47 73.025 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6d4a65e6-c4c2-47f8-8c2b-858373e0862a)
     (property "Reference" "D124" (id 0) (at 207.01 69.215 0))
     (property "Value" "WLED" (id 1) (at 201.93 69.215 0))
@@ -12688,7 +12688,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x03_Male") (at 55.245 60.325 90) (unit 1)
-    (in_bom no) (on_board no)
+    (in_bom no) (on_board no) (fields_autoplaced)
     (uuid 6dee5335-49cd-404f-a855-834fceb3cb92)
     (property "Reference" "J1" (id 0) (at 59.055 56.515 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -12708,7 +12708,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 47.625 43.815 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6e06d4aa-fe1c-4538-bd0b-54e0891ea3ee)
     (property "Reference" "R5" (id 0) (at 50.165 41.275 90))
     (property "Value" "4.7" (id 1) (at 45.085 41.275 90))
@@ -12723,7 +12723,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 119.38 73.025 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6e0a9fb9-7c3a-4671-bf71-32bb5be2b234)
     (property "Reference" "D100" (id 0) (at 121.92 69.215 0))
     (property "Value" "WLED" (id 1) (at 116.84 69.215 0))
@@ -12738,7 +12738,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 241.3 18.415 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6e8467b3-bb7a-4e76-b758-e60d08cf7749)
     (property "Reference" "D61" (id 0) (at 238.76 14.605 0))
     (property "Value" "ALED" (id 1) (at 245.11 14.605 0))
@@ -12753,7 +12753,7 @@
   )
 
   (symbol (lib_id "Relay:FINDER-40.51") (at 39.37 238.125 270) (mirror x) (unit 1)
-    (in_bom no) (on_board no)
+    (in_bom no) (on_board no) (fields_autoplaced)
     (uuid 6e989f02-d2ee-4e90-ab77-c3a090492e92)
     (property "Reference" "K1" (id 0) (at 39.37 225.425 90))
     (property "Value" "FINDER-40.51" (id 1) (at 39.37 250.825 90))
@@ -12771,7 +12771,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 356.235 193.675 90) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6f11a131-81a1-490a-ab2c-818f4d78eb41)
     (property "Reference" "R152" (id 0) (at 361.95 192.405 90))
     (property "Value" "10K" (id 1) (at 351.155 192.405 90))
@@ -12786,7 +12786,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 234.315 243.84 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6fb1bfff-4891-495c-a99d-59183677178e)
     (property "Reference" "R142" (id 0) (at 235.585 241.3 90))
     (property "Value" "1K" (id 1) (at 229.87 241.3 90))
@@ -12801,7 +12801,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 356.235 191.135 90) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7094270d-29da-4328-bc28-28dd3496101c)
     (property "Reference" "R150" (id 0) (at 361.95 189.865 90))
     (property "Value" "10K" (id 1) (at 351.155 189.865 90))
@@ -12816,7 +12816,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 107.95 37.465 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 70c2ca93-ab09-401b-bc6f-2070d19fbd25)
     (property "Reference" "D31" (id 0) (at 109.22 33.655 0))
     (property "Value" "WLED" (id 1) (at 102.87 33.655 0))
@@ -12831,7 +12831,7 @@
   )
 
   (symbol (lib_id "Diode:1N47xxA") (at 234.315 250.825 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 70f2450d-3b0e-4843-a4eb-9dc5e6736b68)
     (property "Reference" "D199" (id 0) (at 240.665 248.285 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -12850,7 +12850,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 119.38 18.415 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 71338376-4685-4f3e-9631-237ee098deca)
     (property "Reference" "D26" (id 0) (at 121.92 14.605 0))
     (property "Value" "WLED" (id 1) (at 116.84 14.605 0))
@@ -12865,7 +12865,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 73.025 92.075 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 71a81371-997c-444e-8b75-d46254108561)
     (property "Reference" "D93" (id 0) (at 70.485 88.265 0))
     (property "Value" "ALED" (id 1) (at 76.835 88.265 0))
@@ -12880,7 +12880,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 76.835 146.05 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 71d9897f-53c6-43b6-9cd7-244b0972adb8)
     (property "Reference" "D165" (id 0) (at 74.295 142.24 0))
     (property "Value" "ALED" (id 1) (at 80.645 142.24 0))
@@ -12895,7 +12895,7 @@
   )
 
   (symbol (lib_id "asymbols:IRLR7843") (at 362.585 97.79 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 721cce33-13b8-4cea-be64-ff6a35c94158)
     (property "Reference" "Q15" (id 0) (at 363.22 91.44 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -12915,7 +12915,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 193.04 79.375 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 739eb094-1edc-496e-9067-8f3d277bd1fb)
     (property "Reference" "D125" (id 0) (at 194.31 75.565 0))
     (property "Value" "WLED" (id 1) (at 187.96 75.565 0))
@@ -12930,7 +12930,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 234.315 229.87 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 73f89e27-4b96-4a76-a69e-3575bcbca354)
     (property "Reference" "R139" (id 0) (at 235.585 227.33 90))
     (property "Value" "1K" (id 1) (at 229.87 227.33 90))
@@ -12945,7 +12945,7 @@
   )
 
   (symbol (lib_id "power:GND") (at 349.885 236.855 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 746de253-85b9-4503-92f7-2bc6bbee00c5)
     (property "Reference" "#PWR0103" (id 0) (at 349.885 243.205 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -12961,7 +12961,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 193.04 92.075 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 74acdbd4-3a27-45de-96c4-9c7d58c5f513)
     (property "Reference" "D129" (id 0) (at 194.31 88.265 0))
     (property "Value" "WLED" (id 1) (at 187.96 88.265 0))
@@ -12976,7 +12976,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 400.05 227.33 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7583bd5b-bbe2-4aaf-be8f-fae580c1edfb)
     (property "Reference" "D210" (id 0) (at 396.875 229.87 0))
     (property "Value" "LED" (id 1) (at 403.86 229.235 0))
@@ -12991,7 +12991,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 66.675 171.45 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 75f1432a-1a8f-4e8f-bbce-3021e5c2cd64)
     (property "Reference" "R90" (id 0) (at 64.135 168.91 90))
     (property "Value" "4.7" (id 1) (at 69.215 168.91 90))
@@ -13006,7 +13006,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 130.81 73.025 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 76ddadfa-4636-497c-938e-b1d8a0df8281)
     (property "Reference" "R50" (id 0) (at 133.35 70.485 90))
     (property "Value" "4.7" (id 1) (at 128.27 70.485 90))
@@ -13021,7 +13021,7 @@
   )
 
   (symbol (lib_id "asymbols:IRLR7843") (at 153.035 175.26 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7715814d-0667-4232-9bd2-19d615c0f7a0)
     (property "Reference" "Q35" (id 0) (at 154.94 169.545 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -13041,7 +13041,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 88.265 146.05 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7809866d-6cc2-4bce-908f-45d82a3a6ef5)
     (property "Reference" "D166" (id 0) (at 87.63 142.24 0))
     (property "Value" "ALED" (id 1) (at 93.98 142.24 0))
@@ -13056,7 +13056,7 @@
   )
 
   (symbol (lib_id "asymbols:IRLR7843") (at 153.035 199.39 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 784abe28-eb36-4fc8-aeb5-f290c64577c0)
     (property "Reference" "Q39" (id 0) (at 154.94 193.675 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -13076,7 +13076,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 252.73 18.415 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 788a3bc6-a42c-4d52-ab43-7770f5efcf38)
     (property "Reference" "D62" (id 0) (at 251.46 14.605 0))
     (property "Value" "ALED" (id 1) (at 257.81 14.605 0))
@@ -13091,7 +13091,7 @@
   )
 
   (symbol (lib_id "Device:C_Polarized") (at 196.215 249.555 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 79a6082e-00ee-42d0-ab6e-904fd195dab2)
     (property "Reference" "C4" (id 0) (at 191.135 245.745 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -13110,7 +13110,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 73.025 18.415 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 79b09b43-28a8-4af9-96b2-d1e80de597f4)
     (property "Reference" "D13" (id 0) (at 70.485 14.605 0))
     (property "Value" "ALED" (id 1) (at 76.835 14.605 0))
@@ -13125,7 +13125,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 252.73 92.075 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7a5e3a8c-9253-4a4b-93a3-308f3d492872)
     (property "Reference" "D142" (id 0) (at 251.46 88.265 0))
     (property "Value" "ALED" (id 1) (at 257.81 88.265 0))
@@ -13140,7 +13140,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 371.475 233.045 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7a9aa3ba-bac8-4f03-9927-9a5b5a49b66d)
     (property "Reference" "D209" (id 0) (at 368.3 235.585 0))
     (property "Value" "LED" (id 1) (at 375.285 234.95 0))
@@ -13155,7 +13155,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 241.3 73.025 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7adbdf71-02ef-4376-9236-418444cd0cc3)
     (property "Reference" "D135" (id 0) (at 238.76 69.215 0))
     (property "Value" "ALED" (id 1) (at 245.11 69.215 0))
@@ -13170,7 +13170,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 400.05 233.045 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7b2d1547-872b-4dcf-8cc9-910b81c5a08e)
     (property "Reference" "D211" (id 0) (at 396.875 235.585 0))
     (property "Value" "LED" (id 1) (at 403.86 234.95 0))
@@ -13185,7 +13185,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 24.765 43.815 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7cb5f632-1a67-44f1-8282-369dc156871e)
     (property "Reference" "D9" (id 0) (at 26.035 40.005 0))
     (property "Value" "WLED" (id 1) (at 19.685 40.005 0))
@@ -13200,7 +13200,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 159.385 134.62 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7dcc9a7e-736a-495d-bc51-2e113618f519)
     (property "Reference" "R120" (id 0) (at 154.94 132.08 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -13234,7 +13234,7 @@
   )
 
   (symbol (lib_name "LM2596_DC-DC_Step_Down_Module_1") (lib_id "asymbols:LM2596_DC-DC_Step_Down_Module") (at 290.195 81.28 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7dd8e988-32f2-4bf5-a3e5-c7865d60309d)
     (property "Reference" "A4" (id 0) (at 295.275 83.82 0))
     (property "Value" "LM2596 Buck" (id 1) (at 290.195 72.39 0))
@@ -13251,7 +13251,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 107.95 73.025 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7e5a4545-1cb5-4588-9314-2cab7612365d)
     (property "Reference" "D99" (id 0) (at 109.22 69.215 0))
     (property "Value" "WLED" (id 1) (at 102.87 69.215 0))
@@ -13266,7 +13266,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 133.985 248.285 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7e635d37-d0fe-4bfe-8820-bd5fb78d0aa9)
     (property "Reference" "R146" (id 0) (at 135.255 247.015 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -13285,7 +13285,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 252.73 85.725 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7f6368ad-24f4-4595-950b-67a8ac6acf2f)
     (property "Reference" "D140" (id 0) (at 251.46 81.915 0))
     (property "Value" "ALED" (id 1) (at 257.81 81.915 0))
@@ -13300,7 +13300,7 @@
   )
 
   (symbol (lib_id "Diode:5KPxxA") (at 74.93 236.855 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7fff4b3e-99ee-4b4b-a178-64a415acffc9)
     (property "Reference" "D201" (id 0) (at 69.215 233.045 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -13319,7 +13319,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 406.4 196.215 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 80f74393-cdf6-42f9-a485-dd44ddfcddbb)
     (property "Reference" "R155" (id 0) (at 400.685 194.945 90))
     (property "Value" "1K" (id 1) (at 411.48 194.945 90))
@@ -13334,7 +13334,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 76.835 184.15 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 81addc5d-c4a3-4184-ae26-b46d1a233cda)
     (property "Reference" "D189" (id 0) (at 74.295 180.34 0))
     (property "Value" "ALED" (id 1) (at 80.645 180.34 0))
@@ -13349,7 +13349,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 28.575 158.75 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 826a7e7c-c491-4039-a20c-3be3408303c2)
     (property "Reference" "D169" (id 0) (at 28.575 154.94 0))
     (property "Value" "WLED" (id 1) (at 22.225 154.94 0))
@@ -13364,7 +13364,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 139.065 124.46 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 828259b8-6745-469c-92de-74b66dcd6949)
     (property "Reference" "R115" (id 0) (at 139.065 121.92 90))
     (property "Value" "10K" (id 1) (at 140.335 127 90))
@@ -13379,7 +13379,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 193.04 50.165 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 83810c43-4d42-41a9-9f49-f765e3b56d13)
     (property "Reference" "D59" (id 0) (at 194.31 46.355 0))
     (property "Value" "WLED" (id 1) (at 187.96 46.355 0))
@@ -13394,7 +13394,7 @@
   )
 
   (symbol (lib_id "asymbols:IRLR7843") (at 153.035 151.13 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 84eeb39f-304d-4d63-b496-b0c71700a3f6)
     (property "Reference" "Q31" (id 0) (at 154.94 145.415 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -13414,7 +13414,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 368.935 105.41 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 85644b63-6a1b-4135-a1e8-1ab9e97502a4)
     (property "Reference" "R112" (id 0) (at 370.205 102.87 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -13433,7 +13433,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 348.615 143.51 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 85ebbf6d-3dcf-4a60-bf7a-24a8b0f996e7)
     (property "Reference" "R121" (id 0) (at 348.615 140.97 90))
     (property "Value" "10K" (id 1) (at 349.885 146.05 90))
@@ -13448,7 +13448,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 406.4 193.675 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 86467408-8a84-47bd-8725-c7d3cf0bbb51)
     (property "Reference" "R153" (id 0) (at 400.685 192.405 90))
     (property "Value" "1K" (id 1) (at 411.48 192.405 90))
@@ -13463,7 +13463,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 76.835 133.35 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 86ee16d8-8b0e-4bed-9e65-39b000d1858d)
     (property "Reference" "D155" (id 0) (at 74.295 129.54 0))
     (property "Value" "ALED" (id 1) (at 80.645 129.54 0))
@@ -13478,7 +13478,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 331.47 233.045 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 87301957-54d6-42bb-89b4-cb247ed95f16)
     (property "Reference" "R103" (id 0) (at 328.93 235.585 90))
     (property "Value" "1K" (id 1) (at 335.28 235.585 90))
@@ -13493,7 +13493,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 51.435 184.15 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 882cdf40-637a-4812-857d-b816bf960a7c)
     (property "Reference" "R92" (id 0) (at 53.975 181.61 90))
     (property "Value" "4.7" (id 1) (at 48.895 181.61 90))
@@ -13508,7 +13508,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 130.81 43.815 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 88562e6b-9477-4a9b-a403-5cc05ecdf91c)
     (property "Reference" "R17" (id 0) (at 133.35 41.275 90))
     (property "Value" "4.7" (id 1) (at 128.27 41.275 90))
@@ -13523,7 +13523,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 73.025 50.165 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 886304ab-1e11-47cf-a646-05e1a8c193eb)
     (property "Reference" "D23" (id 0) (at 70.485 46.355 0))
     (property "Value" "ALED" (id 1) (at 76.835 46.355 0))
@@ -13538,7 +13538,7 @@
   )
 
   (symbol (lib_id "Transistor_BJT:BC327") (at 122.555 236.855 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 888085dd-f9d1-4c25-bb33-becfd12e628d)
     (property "Reference" "Q43" (id 0) (at 127.635 231.775 90))
     (property "Value" "BC327" (id 1) (at 119.38 231.775 90))
@@ -13554,7 +13554,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 241.3 43.815 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8a0933ae-1741-44c5-8d0e-709bfe833800)
     (property "Reference" "D69" (id 0) (at 238.76 40.005 0))
     (property "Value" "ALED" (id 1) (at 245.11 40.005 0))
@@ -13569,7 +13569,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 47.625 73.025 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8a2f14bd-fb8a-42d8-b1fa-aa107b3cbc59)
     (property "Reference" "R38" (id 0) (at 50.165 70.485 90))
     (property "Value" "4.7" (id 1) (at 45.085 70.485 90))
@@ -13584,7 +13584,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 331.47 227.33 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8a71a254-e9e6-4950-a607-2da12e9b2f9d)
     (property "Reference" "R99" (id 0) (at 328.93 229.87 90))
     (property "Value" "1K" (id 1) (at 335.28 229.87 90))
@@ -13599,7 +13599,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 73.025 73.025 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8abeb470-7c47-4c52-add0-17ce9d0c7372)
     (property "Reference" "D87" (id 0) (at 70.485 69.215 0))
     (property "Value" "ALED" (id 1) (at 76.835 69.215 0))
@@ -13614,7 +13614,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 356.235 203.835 90) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8aea9aa3-7be2-4009-a504-9b2794317c18)
     (property "Reference" "R160" (id 0) (at 361.95 202.565 90))
     (property "Value" "10K" (id 1) (at 351.155 202.565 90))
@@ -13629,7 +13629,7 @@
   )
 
   (symbol (lib_id "asymbols:IRLR7843") (at 408.305 46.99 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8b59cdfc-8731-4774-9fc9-afa015a2597f)
     (property "Reference" "Q6" (id 0) (at 406.4 42.545 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -13649,7 +13649,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 40.005 133.35 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8b759cba-8315-4318-9025-af1a1a961a69)
     (property "Reference" "D150" (id 0) (at 42.545 129.54 0))
     (property "Value" "WLED" (id 1) (at 36.195 129.54 0))
@@ -13664,7 +13664,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 119.38 43.815 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8d49fe8b-7b28-4b1b-8a5e-4a576a8fa3c9)
     (property "Reference" "D34" (id 0) (at 121.92 40.005 0))
     (property "Value" "WLED" (id 1) (at 116.84 40.005 0))
@@ -13679,7 +13679,7 @@
   )
 
   (symbol (lib_id "asymbols:IRLR7843") (at 125.095 172.72 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8e2ac359-dc33-4ce2-b79d-b453ff026e82)
     (property "Reference" "Q33" (id 0) (at 130.81 168.275 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -13699,7 +13699,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 36.195 31.115 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8e2d928e-7e38-4b28-b6ab-b5928fa87202)
     (property "Reference" "D6" (id 0) (at 38.735 27.305 0))
     (property "Value" "WLED" (id 1) (at 33.655 27.305 0))
@@ -13714,7 +13714,7 @@
   )
 
   (symbol (lib_id "asymbols:IRLR7843") (at 334.645 22.86 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8e310f4f-7d1a-4bc9-84d6-b2d1899edbc7)
     (property "Reference" "Q1" (id 0) (at 340.36 18.415 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -13734,7 +13734,7 @@
   )
 
   (symbol (lib_id "asymbols:IRLR7843") (at 334.645 95.25 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8f0ca3ca-e251-49e5-9d73-d95fe312aa21)
     (property "Reference" "Q13" (id 0) (at 341.63 90.805 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -13754,7 +13754,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 269.875 66.04 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8fe85766-abfc-422b-bf72-5d05f84974db)
     (property "Reference" "D214" (id 0) (at 266.7 68.58 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -13773,7 +13773,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x03_Male") (at 223.52 108.585 90) (unit 1)
-    (in_bom no) (on_board no)
+    (in_bom no) (on_board no) (fields_autoplaced)
     (uuid 90755938-02e4-4f57-aa41-b731ced0e88a)
     (property "Reference" "J6" (id 0) (at 227.33 104.775 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -13793,7 +13793,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 215.9 31.115 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 909901f8-62d9-4f23-b98f-c052c75b1acd)
     (property "Reference" "R27" (id 0) (at 218.44 28.575 90))
     (property "Value" "4,7" (id 1) (at 213.36 28.575 90))
@@ -13808,7 +13808,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 28.575 171.45 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 90cb5826-dbde-43dc-8e3e-0f3f697735e5)
     (property "Reference" "D173" (id 0) (at 28.575 167.64 0))
     (property "Value" "WLED" (id 1) (at 22.225 167.64 0))
@@ -13823,7 +13823,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 40.005 127 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 924959e6-35b8-4bc0-ad0c-4621dd028cfc)
     (property "Reference" "D148" (id 0) (at 42.545 123.19 0))
     (property "Value" "WLED" (id 1) (at 36.195 123.19 0))
@@ -13838,7 +13838,7 @@
   )
 
   (symbol (lib_id "Transistor_BJT:2N3904") (at 346.075 149.86 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 924d96e9-0a37-4069-a61e-b4b485eba1e4)
     (property "Reference" "Q30" (id 0) (at 349.885 154.305 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -13858,7 +13858,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 130.81 66.675 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 929a6b61-410e-4ab2-a7ff-ecef257c2241)
     (property "Reference" "R49" (id 0) (at 133.35 64.135 90))
     (property "Value" "4.7" (id 1) (at 128.27 64.135 90))
@@ -13873,7 +13873,7 @@
   )
 
   (symbol (lib_id "Transistor_BJT:2N3904") (at 346.075 101.6 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 948239e2-e3fd-457b-a447-72feb742c550)
     (property "Reference" "Q16" (id 0) (at 349.885 106.045 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -13893,7 +13893,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 348.615 46.99 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 94be676e-fc30-42ac-b06c-e9b9cbe56c04)
     (property "Reference" "R101" (id 0) (at 348.615 44.45 90))
     (property "Value" "10K" (id 1) (at 349.885 49.53 90))
@@ -13908,7 +13908,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 76.835 120.65 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 95868e49-96b5-4161-b361-c5377fd9ad41)
     (property "Reference" "D151" (id 0) (at 74.295 116.84 0))
     (property "Value" "ALED" (id 1) (at 80.645 116.84 0))
@@ -13923,7 +13923,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 241.3 24.765 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 95c0eddb-a989-4bbc-a0f7-5179da93399a)
     (property "Reference" "D63" (id 0) (at 238.76 20.955 0))
     (property "Value" "ALED" (id 1) (at 245.11 20.955 0))
@@ -13938,7 +13938,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 159.385 158.75 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 962713d6-4a12-422e-8b06-667d3196a16d)
     (property "Reference" "R128" (id 0) (at 154.94 156.21 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -13957,7 +13957,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 47.625 92.075 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 96325b81-41e8-4233-bc09-f2d6f2780111)
     (property "Reference" "R41" (id 0) (at 50.165 89.535 90))
     (property "Value" "4.7" (id 1) (at 45.085 89.535 90))
@@ -13972,7 +13972,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 231.14 66.675 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 96fbed46-00f9-4317-9e8f-d25e24521aa4)
     (property "Reference" "R67" (id 0) (at 228.6 64.135 90))
     (property "Value" "4.7" (id 1) (at 233.68 64.135 90))
@@ -13987,7 +13987,7 @@
   )
 
   (symbol (lib_id "Connector:Screw_Terminal_01x02") (at 298.45 95.25 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 972c6483-24f7-4f36-82ba-f8ccb6613dc3)
     (property "Reference" "J17" (id 0) (at 302.26 96.52 0))
     (property "Value" "Power 1" (id 1) (at 300.99 92.075 0))
@@ -14002,7 +14002,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 231.14 85.725 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 977c6e16-7518-4392-9c4c-baf1a3c7cbac)
     (property "Reference" "R70" (id 0) (at 228.6 83.185 90))
     (property "Value" "4.7" (id 1) (at 233.68 83.185 90))
@@ -14017,7 +14017,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 119.38 98.425 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 97943ad9-954f-441e-bfaf-fbc26945d16f)
     (property "Reference" "D108" (id 0) (at 121.92 94.615 0))
     (property "Value" "WLED" (id 1) (at 116.84 94.615 0))
@@ -14032,7 +14032,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 167.64 24.765 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 97a6c850-058f-46e3-8d36-4d9157c8b1f4)
     (property "Reference" "D40" (id 0) (at 166.37 20.955 0))
     (property "Value" "ALED" (id 1) (at 172.72 20.955 0))
@@ -14047,7 +14047,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 406.4 211.455 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 97ac4cb5-11ca-4ed9-be49-cae889e5c2dd)
     (property "Reference" "R167" (id 0) (at 400.685 210.185 90))
     (property "Value" "1K" (id 1) (at 411.48 210.185 90))
@@ -14062,7 +14062,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 204.47 24.765 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 97e771f9-d084-48cf-9652-e622c85c3256)
     (property "Reference" "D52" (id 0) (at 207.01 20.955 0))
     (property "Value" "WLED" (id 1) (at 201.93 20.955 0))
@@ -14077,7 +14077,7 @@
   )
 
   (symbol (lib_id "Device:C_Polarized") (at 203.835 249.555 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 98834490-029b-4a46-8741-f1f823dcac7b)
     (property "Reference" "C5" (id 0) (at 198.755 245.745 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -14096,7 +14096,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 88.265 177.8 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 9a3df2ec-0916-4411-928e-7ff587d0eff4)
     (property "Reference" "D188" (id 0) (at 87.63 173.99 0))
     (property "Value" "ALED" (id 1) (at 93.98 173.99 0))
@@ -14111,7 +14111,7 @@
   )
 
   (symbol (lib_id "Connector:Screw_Terminal_01x03") (at 320.675 130.81 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 9a7dd768-cd89-45ea-9615-4b4f5e79f2de)
     (property "Reference" "J15" (id 0) (at 320.675 124.46 0))
     (property "Value" "Letter Terminal" (id 1) (at 317.5 129.54 90))
@@ -14127,7 +14127,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 28.575 152.4 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 9b13e34a-5c75-4fc2-873a-549ef629b3d9)
     (property "Reference" "D161" (id 0) (at 28.575 148.59 0))
     (property "Value" "WLED" (id 1) (at 22.225 148.59 0))
@@ -14142,7 +14142,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 107.95 92.075 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 9b1ba9e0-3142-41c8-a434-410f73352820)
     (property "Reference" "D105" (id 0) (at 109.22 88.265 0))
     (property "Value" "WLED" (id 1) (at 102.87 88.265 0))
@@ -14157,7 +14157,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 62.865 98.425 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 9b307a72-c68a-4d77-a18e-48e6765b817c)
     (property "Reference" "R48" (id 0) (at 60.325 95.885 90))
     (property "Value" "4.7" (id 1) (at 65.405 95.885 90))
@@ -14172,7 +14172,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 88.265 152.4 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 9c66ce0d-f653-413b-a52c-cb8b230c87c0)
     (property "Reference" "D168" (id 0) (at 87.63 148.59 0))
     (property "Value" "ALED" (id 1) (at 93.98 148.59 0))
@@ -14187,7 +14187,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 47.625 37.465 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 9c9f278f-db07-4365-96bf-3b3e70d3b6e3)
     (property "Reference" "R4" (id 0) (at 50.165 34.925 90))
     (property "Value" "4.7" (id 1) (at 45.085 34.925 90))
@@ -14202,7 +14202,7 @@
   )
 
   (symbol (lib_name "LM2596_DC-DC_Step_Down_Module_2") (lib_id "asymbols:LM2596_DC-DC_Step_Down_Module") (at 290.195 48.26 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 9f11e859-7ee8-4f82-8ee1-386e73a6f5c3)
     (property "Reference" "A2" (id 0) (at 299.085 46.99 0))
     (property "Value" "LM2596 Buck" (id 1) (at 290.195 39.37 0))
@@ -14219,7 +14219,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 130.81 37.465 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a0eec817-03c4-40b0-b31e-435c73f4c8b5)
     (property "Reference" "R16" (id 0) (at 133.35 34.925 90))
     (property "Value" "4.7" (id 1) (at 128.27 34.925 90))
@@ -14253,7 +14253,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 146.05 37.465 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a12762ed-1bd1-4c04-bbb0-2b42b8b2555c)
     (property "Reference" "R22" (id 0) (at 143.51 34.925 90))
     (property "Value" "4.7" (id 1) (at 148.59 34.925 90))
@@ -14268,7 +14268,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 156.21 50.165 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a16da79d-3234-44b9-9c2b-527fcf6750d7)
     (property "Reference" "D47" (id 0) (at 153.67 46.355 0))
     (property "Value" "ALED" (id 1) (at 160.02 46.355 0))
@@ -14283,7 +14283,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 348.615 71.12 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a2051d0c-0c4f-4ce0-905b-041d2619d447)
     (property "Reference" "R105" (id 0) (at 348.615 68.58 90))
     (property "Value" "10K" (id 1) (at 349.885 73.66 90))
@@ -14298,7 +14298,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 24.765 85.725 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a47b98f0-26ab-45f8-baf3-7f8b8b56198e)
     (property "Reference" "D79" (id 0) (at 26.035 81.915 0))
     (property "Value" "WLED" (id 1) (at 19.685 81.915 0))
@@ -14313,7 +14313,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 167.64 43.815 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a51e0db7-79de-4e72-b9a3-e1e2e07d8f5b)
     (property "Reference" "D46" (id 0) (at 166.37 40.005 0))
     (property "Value" "ALED" (id 1) (at 172.72 40.005 0))
@@ -14328,7 +14328,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 146.685 125.73 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a54fb819-67b9-4b66-b34c-85d75d34419a)
     (property "Reference" "R117" (id 0) (at 147.32 121.285 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -14347,7 +14347,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 231.14 37.465 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a5642820-217e-4136-aee1-5f8dacb10f96)
     (property "Reference" "R34" (id 0) (at 228.6 34.925 90))
     (property "Value" "4.7" (id 1) (at 233.68 34.925 90))
@@ -14362,7 +14362,7 @@
   )
 
   (symbol (lib_id "Diode:1N47xxA") (at 234.315 200.025 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a61d023a-31ef-4756-8b09-0561016463ad)
     (property "Reference" "D196" (id 0) (at 231.775 204.47 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -14381,7 +14381,7 @@
   )
 
   (symbol (lib_id "Connector:Screw_Terminal_01x03") (at 111.125 208.28 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a6f8d87d-9b84-42b3-b503-a707edb2f04f)
     (property "Reference" "J25" (id 0) (at 111.125 201.93 0))
     (property "Value" "Raptor Terminal" (id 1) (at 107.315 208.28 90))
@@ -14397,7 +14397,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 167.64 31.115 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a766df11-68c7-42f0-a6ba-1579e171ec2e)
     (property "Reference" "D42" (id 0) (at 166.37 27.305 0))
     (property "Value" "ALED" (id 1) (at 172.72 27.305 0))
@@ -14412,7 +14412,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 28.575 120.65 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a86423ae-ee3f-49fb-9854-9fb763507f8c)
     (property "Reference" "D145" (id 0) (at 28.575 116.84 0))
     (property "Value" "WLED" (id 1) (at 22.225 116.84 0))
@@ -14427,7 +14427,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 231.14 79.375 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a9dd5308-1199-4f12-b00d-42c5c7d11322)
     (property "Reference" "R69" (id 0) (at 228.6 76.835 90))
     (property "Value" "4.7" (id 1) (at 233.68 76.835 90))
@@ -14442,7 +14442,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 252.73 37.465 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid aa0ea934-7131-4acd-aac5-7bdf8c5d245e)
     (property "Reference" "D68" (id 0) (at 251.46 33.655 0))
     (property "Value" "ALED" (id 1) (at 257.81 33.655 0))
@@ -14457,7 +14457,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 88.265 158.75 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ab54d00f-da13-4f87-a0ad-21ca729f1ef7)
     (property "Reference" "D176" (id 0) (at 87.63 154.94 0))
     (property "Value" "ALED" (id 1) (at 93.98 154.94 0))
@@ -14472,7 +14472,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 368.935 57.15 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid aba97a6b-b7d5-40d1-9156-f6b24714d410)
     (property "Reference" "R104" (id 0) (at 370.205 54.61 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -14491,7 +14491,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 146.685 149.86 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ac3fa83b-5d5d-4c1e-84fc-f01ff6a3d119)
     (property "Reference" "R125" (id 0) (at 147.32 145.415 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -14529,7 +14529,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 146.05 66.675 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid acf9ea71-c353-4a24-a2b3-d35c31ffc49e)
     (property "Reference" "R55" (id 0) (at 143.51 64.135 90))
     (property "Value" "4.7" (id 1) (at 148.59 64.135 90))
@@ -14544,7 +14544,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 167.64 37.465 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ad3e13f6-4041-4ae3-b795-87d05d2ee034)
     (property "Reference" "D44" (id 0) (at 166.37 33.655 0))
     (property "Value" "ALED" (id 1) (at 172.72 33.655 0))
@@ -14559,7 +14559,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 28.575 139.7 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid adcbfbf6-ea52-4708-ad42-009a19164247)
     (property "Reference" "D157" (id 0) (at 28.575 135.89 0))
     (property "Value" "WLED" (id 1) (at 22.225 135.89 0))
@@ -14574,7 +14574,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 84.455 66.675 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid aea6c672-4eda-4e5e-86a6-27fde0a0275f)
     (property "Reference" "D86" (id 0) (at 83.185 62.865 0))
     (property "Value" "ALED" (id 1) (at 89.535 62.865 0))
@@ -14589,7 +14589,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 204.47 92.075 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid af94c12e-a75b-485b-9c61-24e990a6de7e)
     (property "Reference" "D130" (id 0) (at 207.01 88.265 0))
     (property "Value" "WLED" (id 1) (at 201.93 88.265 0))
@@ -14639,7 +14639,7 @@
   )
 
   (symbol (lib_id "Diode:1N47xxA") (at 228.6 200.025 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b1371e2f-bc11-4b62-95bb-6dfb62f46733)
     (property "Reference" "D195" (id 0) (at 226.06 204.47 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -14658,7 +14658,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 234.315 257.175 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b176a961-73f1-454f-a618-729b08f662f4)
     (property "Reference" "R143" (id 0) (at 235.585 254.635 90))
     (property "Value" "1K" (id 1) (at 229.87 254.635 90))
@@ -14673,7 +14673,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 40.005 177.8 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b1fb117e-da75-4471-b892-b5d2bed98217)
     (property "Reference" "D182" (id 0) (at 42.545 173.99 0))
     (property "Value" "WLED" (id 1) (at 36.195 173.99 0))
@@ -14688,7 +14688,7 @@
   )
 
   (symbol (lib_id "power:GND") (at 415.925 217.805 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b30998e0-f6c4-49c1-a4a9-c9b3f9b12724)
     (property "Reference" "#PWR05" (id 0) (at 415.925 224.155 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -14704,7 +14704,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 84.455 92.075 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b32b5ba7-f328-499d-8a07-803b98952f33)
     (property "Reference" "D94" (id 0) (at 83.185 88.265 0))
     (property "Value" "ALED" (id 1) (at 89.535 88.265 0))
@@ -14719,7 +14719,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 146.05 98.425 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b4ad9912-ec69-4fe5-b893-d0b9022b7cae)
     (property "Reference" "R60" (id 0) (at 143.51 95.885 90))
     (property "Value" "4.7" (id 1) (at 148.59 95.885 90))
@@ -14734,7 +14734,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 24.765 50.165 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b51f030d-fdf9-4145-a4d1-963b1dea7bc8)
     (property "Reference" "D11" (id 0) (at 26.035 46.355 0))
     (property "Value" "WLED" (id 1) (at 19.685 46.355 0))
@@ -14749,7 +14749,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 24.765 24.765 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b52070f0-ed28-465e-8419-8a95aeb67002)
     (property "Reference" "D3" (id 0) (at 26.035 20.955 0))
     (property "Value" "WLED" (id 1) (at 19.685 20.955 0))
@@ -14764,7 +14764,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 40.005 171.45 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b5cff2e5-0caa-45e3-8fa7-10653b55ee91)
     (property "Reference" "D174" (id 0) (at 42.545 167.64 0))
     (property "Value" "WLED" (id 1) (at 36.195 167.64 0))
@@ -14779,7 +14779,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 348.615 95.25 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b5eff1e6-9549-45b2-8996-8e3cffebd7e5)
     (property "Reference" "R109" (id 0) (at 348.615 92.71 90))
     (property "Value" "10K" (id 1) (at 349.885 97.79 90))
@@ -14794,7 +14794,7 @@
   )
 
   (symbol (lib_id "asymbols:LM2596_DC-DC_Step_Down_Module") (at 290.195 64.77 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b99b3263-6246-4377-87c8-95d4c8813e13)
     (property "Reference" "A3" (id 0) (at 299.085 63.5 0))
     (property "Value" "LM2596 Buck" (id 1) (at 290.195 55.88 0))
@@ -14811,7 +14811,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 156.21 24.765 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid bb339cbb-c72c-4791-a1c9-1ad45d13d339)
     (property "Reference" "D39" (id 0) (at 153.67 20.955 0))
     (property "Value" "ALED" (id 1) (at 160.02 20.955 0))
@@ -14826,7 +14826,7 @@
   )
 
   (symbol (lib_id "power:GND") (at 407.035 236.855 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid bbb47d7c-ea0d-426a-b775-3278c40ede3b)
     (property "Reference" "#PWR0102" (id 0) (at 407.035 243.205 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -14842,7 +14842,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 356.235 213.995 90) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid bbc36d48-4456-49c6-a102-30d33ac79b5d)
     (property "Reference" "R168" (id 0) (at 361.95 212.725 90))
     (property "Value" "10K" (id 1) (at 351.155 212.725 90))
@@ -14857,7 +14857,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 241.3 37.465 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid bbed9338-71df-462d-845b-17dfac329af0)
     (property "Reference" "D67" (id 0) (at 238.76 33.655 0))
     (property "Value" "ALED" (id 1) (at 245.11 33.655 0))
@@ -14872,7 +14872,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 40.005 190.5 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid bc4fa423-69bb-4dff-a3fa-f9a0fda288a8)
     (property "Reference" "D186" (id 0) (at 42.545 186.69 0))
     (property "Value" "WLED" (id 1) (at 36.195 186.69 0))
@@ -14887,7 +14887,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 28.575 177.8 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid bc75f6af-ae9f-449c-bf6c-3e4a0b7b3c8a)
     (property "Reference" "D181" (id 0) (at 28.575 173.99 0))
     (property "Value" "WLED" (id 1) (at 22.225 173.99 0))
@@ -14902,7 +14902,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 146.05 18.415 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid bcd8e9e2-675a-45e2-a171-2a7ef0408ede)
     (property "Reference" "R19" (id 0) (at 143.51 15.875 90))
     (property "Value" "4.7" (id 1) (at 148.59 15.875 90))
@@ -14917,7 +14917,7 @@
   )
 
   (symbol (lib_id "power:+5V") (at 188.595 226.695 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid bd24974f-2bf0-4f53-a72a-44e4272e90cd)
     (property "Reference" "#PWR010" (id 0) (at 188.595 230.505 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -14949,7 +14949,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 84.455 73.025 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid be3c8c62-b099-46ae-8d0b-391f163c1ad1)
     (property "Reference" "D88" (id 0) (at 83.185 69.215 0))
     (property "Value" "ALED" (id 1) (at 89.535 69.215 0))
@@ -14964,7 +14964,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 215.9 85.725 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid be710e05-bc60-4b01-851f-884b91b4f895)
     (property "Reference" "R64" (id 0) (at 218.44 83.185 90))
     (property "Value" "4.7" (id 1) (at 213.36 83.185 90))
@@ -14979,7 +14979,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 66.675 184.15 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid bf317042-6575-46c1-97e8-bdd971c0f231)
     (property "Reference" "R95" (id 0) (at 64.135 181.61 90))
     (property "Value" "4.7" (id 1) (at 69.215 181.61 90))
@@ -14994,7 +14994,7 @@
   )
 
   (symbol (lib_id "Transistor_BJT:2N3904") (at 346.075 53.34 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid bf33fdb4-7fad-4a2a-b684-563160065159)
     (property "Reference" "Q8" (id 0) (at 349.885 57.785 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -15014,7 +15014,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 167.64 18.415 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid bf8785df-2f7a-4279-98e3-b4e09d0da61e)
     (property "Reference" "D38" (id 0) (at 166.37 14.605 0))
     (property "Value" "ALED" (id 1) (at 172.72 14.605 0))
@@ -15029,7 +15029,7 @@
   )
 
   (symbol (lib_id "asymbols:IRLR7843") (at 334.645 119.38 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid bf9cbfcf-0f17-452d-be52-d5cf8da24a72)
     (property "Reference" "Q17" (id 0) (at 341.63 114.935 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -15049,7 +15049,7 @@
   )
 
   (symbol (lib_id "Connector:Screw_Terminal_01x02") (at 213.36 169.545 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid bfab20bd-4f30-488e-a71c-f4aa0f424f72)
     (property "Reference" "J26" (id 0) (at 209.55 170.815 0))
     (property "Value" "Turn Sig." (id 1) (at 213.36 166.37 0))
@@ -15080,7 +15080,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 215.9 92.075 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid bfee2bfe-9f07-4448-81f7-825269a2488f)
     (property "Reference" "R65" (id 0) (at 218.44 89.535 90))
     (property "Value" "4.7" (id 1) (at 213.36 89.535 90))
@@ -15095,7 +15095,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 139.065 148.59 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c0a9a06f-6106-405f-ae45-e35b8441eee9)
     (property "Reference" "R123" (id 0) (at 139.065 146.05 90))
     (property "Value" "10K" (id 1) (at 140.335 151.13 90))
@@ -15126,7 +15126,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 356.235 24.13 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c0b376ab-8108-4873-bdc7-854d81a483c8)
     (property "Reference" "R98" (id 0) (at 358.775 21.59 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -15145,7 +15145,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 119.38 85.725 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c142cd36-d5ba-4088-95b8-e3a5f7322c98)
     (property "Reference" "D104" (id 0) (at 121.92 81.915 0))
     (property "Value" "WLED" (id 1) (at 116.84 81.915 0))
@@ -15160,7 +15160,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 204.47 18.415 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c1547cc1-7ad7-49a9-b820-ce078ea1a01b)
     (property "Reference" "D50" (id 0) (at 207.01 14.605 0))
     (property "Value" "WLED" (id 1) (at 201.93 14.605 0))
@@ -15175,7 +15175,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 107.95 43.815 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c304429a-bffd-4fd7-b280-ab690b19858c)
     (property "Reference" "D33" (id 0) (at 109.22 40.005 0))
     (property "Value" "WLED" (id 1) (at 102.87 40.005 0))
@@ -15190,7 +15190,7 @@
   )
 
   (symbol (lib_id "Connector:Screw_Terminal_01x03") (at 111.125 160.02 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c337c4a8-b0da-4383-8cee-24d0b2cf2caa)
     (property "Reference" "J20" (id 0) (at 111.125 153.67 0))
     (property "Value" "Raptor Terminal" (id 1) (at 107.315 160.02 90))
@@ -15206,7 +15206,7 @@
   )
 
   (symbol (lib_id "Diode:1N4007") (at 153.035 234.315 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c51226a2-6c2c-4afc-a19b-0ee05946a333)
     (property "Reference" "D200" (id 0) (at 153.035 231.775 0))
     (property "Value" "1N4007" (id 1) (at 151.765 236.855 0))
@@ -15221,7 +15221,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 66.675 190.5 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c60d3769-9b31-4660-bdec-1538ed6a2851)
     (property "Reference" "R96" (id 0) (at 64.135 187.96 90))
     (property "Value" "4.7" (id 1) (at 69.215 187.96 90))
@@ -15236,7 +15236,7 @@
   )
 
   (symbol (lib_id "asymbols:IRLR7843") (at 362.585 146.05 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c755689a-2f62-4298-b48a-d08b18610618)
     (property "Reference" "Q27" (id 0) (at 363.22 139.7 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -15256,7 +15256,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 62.865 24.765 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c81f0c30-b951-40d1-be2c-5a1031bbdb09)
     (property "Reference" "R8" (id 0) (at 60.325 22.225 90))
     (property "Value" "4.7" (id 1) (at 65.405 22.225 90))
@@ -15290,7 +15290,7 @@
   )
 
   (symbol (lib_id "asymbols:IRLR7843") (at 408.305 22.86 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c882bb6c-65a2-4c4b-b754-98bf828efeda)
     (property "Reference" "Q2" (id 0) (at 406.4 18.415 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -15310,7 +15310,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 130.81 85.725 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c88beb5a-d0ff-48d7-a223-56b18df5edb7)
     (property "Reference" "R52" (id 0) (at 133.35 83.185 90))
     (property "Value" "4.7" (id 1) (at 128.27 83.185 90))
@@ -15325,7 +15325,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 28.575 146.05 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c8ced89a-3789-42bc-946f-229d87c6203e)
     (property "Reference" "D159" (id 0) (at 28.575 142.24 0))
     (property "Value" "WLED" (id 1) (at 22.225 142.24 0))
@@ -15340,7 +15340,7 @@
   )
 
   (symbol (lib_id "Transistor_BJT:BC337") (at 141.605 236.855 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c970b1e1-b1df-49f8-b799-48a6f12b88c4)
     (property "Reference" "Q44" (id 0) (at 139.065 231.775 90))
     (property "Value" "BC337" (id 1) (at 146.685 231.775 90))
@@ -15356,7 +15356,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 47.625 85.725 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ca0e071f-1b78-46f6-8708-37adb1cb8910)
     (property "Reference" "R40" (id 0) (at 50.165 83.185 90))
     (property "Value" "4.7" (id 1) (at 45.085 83.185 90))
@@ -15371,7 +15371,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 215.9 43.815 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ca382ee5-db95-4129-ae16-c8bf92b9bb02)
     (property "Reference" "R29" (id 0) (at 218.44 41.275 90))
     (property "Value" "4.7" (id 1) (at 213.36 41.275 90))
@@ -15386,7 +15386,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 88.265 171.45 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid cbac6cd9-c154-422d-81b7-96c3a00d98dc)
     (property "Reference" "D180" (id 0) (at 87.63 167.64 0))
     (property "Value" "ALED" (id 1) (at 93.98 167.64 0))
@@ -15401,7 +15401,7 @@
   )
 
   (symbol (lib_id "asymbols:IRLR7843") (at 125.095 124.46 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ccafc415-9536-43f8-8efa-c3823866e83d)
     (property "Reference" "Q20" (id 0) (at 130.81 120.015 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -15421,7 +15421,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 356.235 208.915 90) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid cceee1e0-a0b4-496b-bd97-94407478b0dd)
     (property "Reference" "R164" (id 0) (at 361.95 207.645 90))
     (property "Value" "10K" (id 1) (at 351.155 207.645 90))
@@ -15436,7 +15436,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 356.235 120.65 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid cd21c50e-0835-4caa-8858-c73ba53713a9)
     (property "Reference" "R114" (id 0) (at 358.775 118.11 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -15455,7 +15455,7 @@
   )
 
   (symbol (lib_id "Transistor_BJT:2N3904") (at 136.525 179.07 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid cde1c00f-d68c-4397-94f7-c14814d89c43)
     (property "Reference" "Q36" (id 0) (at 139.7 182.88 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -15475,7 +15475,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 146.685 173.99 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ced770d0-d4e2-4201-8e23-6c558e4187fb)
     (property "Reference" "R130" (id 0) (at 147.32 169.545 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -15494,7 +15494,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 73.025 85.725 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid cf14fb28-fc0c-457e-b35a-f1342781de78)
     (property "Reference" "D91" (id 0) (at 70.485 81.915 0))
     (property "Value" "ALED" (id 1) (at 76.835 81.915 0))
@@ -15509,7 +15509,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 388.62 233.045 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid cf23cfcb-eeb0-4db5-8084-5a6dadf24da9)
     (property "Reference" "R118" (id 0) (at 386.08 235.585 90))
     (property "Value" "1K" (id 1) (at 392.43 235.585 90))
@@ -15524,7 +15524,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 139.065 196.85 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid cf257c25-d860-4f49-86b1-78716cb8b531)
     (property "Reference" "R137" (id 0) (at 139.065 194.31 90))
     (property "Value" "10K" (id 1) (at 140.335 199.39 90))
@@ -15539,7 +15539,7 @@
   )
 
   (symbol (lib_id "asymbols:MEGA_PRO_EMBED_CH340G_{slash}_ATMEGA2560") (at 274.32 190.5 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid cf3f9eb9-8a38-400b-b0c2-49f15e7f956c)
     (property "Reference" "U1" (id 0) (at 274.955 125.095 0))
     (property "Value" "MEGA_PRO_EMBED_CH340G_{slash}_ATMEGA2560" (id 1) (at 274.32 190.5 90))
@@ -15650,7 +15650,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 107.95 18.415 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid cf4ad3ca-8922-4b81-ac11-5c2a317bcf02)
     (property "Reference" "D25" (id 0) (at 109.22 14.605 0))
     (property "Value" "WLED" (id 1) (at 102.87 14.605 0))
@@ -15665,7 +15665,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 156.21 31.115 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid cf828cfa-25af-4c8b-a0fc-4ad807bbc7b6)
     (property "Reference" "D41" (id 0) (at 153.67 27.305 0))
     (property "Value" "ALED" (id 1) (at 160.02 27.305 0))
@@ -15680,7 +15680,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 167.64 73.025 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid cfd3c0cc-9b50-452d-9f8f-e940224ba104)
     (property "Reference" "D112" (id 0) (at 166.37 69.215 0))
     (property "Value" "ALED" (id 1) (at 172.72 69.215 0))
@@ -15695,7 +15695,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 73.025 98.425 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d01f018a-f9d1-4151-b258-1be7d40cbe39)
     (property "Reference" "D95" (id 0) (at 70.485 94.615 0))
     (property "Value" "ALED" (id 1) (at 76.835 94.615 0))
@@ -15710,7 +15710,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 24.765 79.375 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d045e877-d591-46d1-bb26-9ee0545a7847)
     (property "Reference" "D77" (id 0) (at 26.035 75.565 0))
     (property "Value" "WLED" (id 1) (at 19.685 75.565 0))
@@ -15725,7 +15725,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 215.9 50.165 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d0771c2a-b48b-414a-9a36-8c6a2b74ddfa)
     (property "Reference" "R30" (id 0) (at 218.44 47.625 90))
     (property "Value" "4.7" (id 1) (at 213.36 47.625 90))
@@ -15740,7 +15740,7 @@
   )
 
   (symbol (lib_id "Transistor_BJT:2N3904") (at 346.075 29.21 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d080b80b-8e24-4835-bdca-98a351852494)
     (property "Reference" "Q4" (id 0) (at 349.885 33.655 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -15760,7 +15760,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 167.64 85.725 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d0c0badb-f0c4-4a41-bf9f-ad739d1265b3)
     (property "Reference" "D116" (id 0) (at 166.37 81.915 0))
     (property "Value" "ALED" (id 1) (at 172.72 81.915 0))
@@ -15775,7 +15775,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 24.765 92.075 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d114b3cf-5276-433b-b926-05bf2e3f1a0a)
     (property "Reference" "D81" (id 0) (at 26.035 88.265 0))
     (property "Value" "WLED" (id 1) (at 19.685 88.265 0))
@@ -15790,7 +15790,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 40.005 158.75 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d1791bb0-2b3e-4286-a589-21c19b4293b2)
     (property "Reference" "D170" (id 0) (at 42.545 154.94 0))
     (property "Value" "WLED" (id 1) (at 36.195 154.94 0))
@@ -15805,7 +15805,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 240.03 183.515 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d18825e3-2fdb-46bb-a89b-426dd94a4eb8)
     (property "Reference" "R135" (id 0) (at 237.49 186.055 90))
     (property "Value" "1K" (id 1) (at 237.49 180.975 90))
@@ -15820,7 +15820,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 24.765 31.115 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d22827a2-8ea7-47cd-b9f2-c9648444edd6)
     (property "Reference" "D5" (id 0) (at 26.035 27.305 0))
     (property "Value" "WLED" (id 1) (at 19.685 27.305 0))
@@ -15835,7 +15835,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 114.935 248.285 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d32e1d72-c6c3-4bfa-94be-a3c1a6933de2)
     (property "Reference" "R144" (id 0) (at 116.205 247.015 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -15854,7 +15854,7 @@
   )
 
   (symbol (lib_id "asymbols:IRLR7843") (at 408.305 71.12 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d32e5969-35c8-401d-905e-adbaf2f6bb08)
     (property "Reference" "Q10" (id 0) (at 406.4 66.675 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -15874,7 +15874,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 241.3 92.075 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d333d68c-5c14-4bca-89f0-170dc928abbf)
     (property "Reference" "D141" (id 0) (at 238.76 88.265 0))
     (property "Value" "ALED" (id 1) (at 245.11 88.265 0))
@@ -15889,7 +15889,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 76.835 152.4 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d3ecd3c0-c6fc-42d8-8c25-e2bcf1f9c1df)
     (property "Reference" "D167" (id 0) (at 74.295 148.59 0))
     (property "Value" "ALED" (id 1) (at 80.645 148.59 0))
@@ -15904,7 +15904,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 156.21 85.725 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d4967250-d37e-4ecd-a995-c0d853ea827e)
     (property "Reference" "D115" (id 0) (at 153.67 81.915 0))
     (property "Value" "ALED" (id 1) (at 160.02 81.915 0))
@@ -15919,7 +15919,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 119.38 79.375 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d5fd19d7-c057-4ab3-9320-b00a2dd02100)
     (property "Reference" "D102" (id 0) (at 121.92 75.565 0))
     (property "Value" "WLED" (id 1) (at 116.84 75.565 0))
@@ -15934,7 +15934,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 73.025 79.375 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d5ff52fc-d701-4d78-a3ee-9d09dc781327)
     (property "Reference" "D89" (id 0) (at 70.485 75.565 0))
     (property "Value" "ALED" (id 1) (at 76.835 75.565 0))
@@ -15949,7 +15949,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 88.265 127 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d671bbe5-9669-4856-9cd6-e736b64d5747)
     (property "Reference" "D154" (id 0) (at 87.63 123.19 0))
     (property "Value" "ALED" (id 1) (at 93.98 123.19 0))
@@ -15964,7 +15964,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 84.455 24.765 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d68697b4-3c0c-4381-8fd9-e123fa4a2914)
     (property "Reference" "D16" (id 0) (at 83.185 20.955 0))
     (property "Value" "ALED" (id 1) (at 89.535 20.955 0))
@@ -15979,7 +15979,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 231.14 73.025 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d6fbc1a1-e634-4751-94e4-4cc7c4314650)
     (property "Reference" "R68" (id 0) (at 228.6 70.485 90))
     (property "Value" "4.7" (id 1) (at 233.68 70.485 90))
@@ -15994,7 +15994,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 76.835 177.8 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d7da6354-e6c3-43f5-b7cd-2a18e5b7c33f)
     (property "Reference" "D187" (id 0) (at 74.295 173.99 0))
     (property "Value" "ALED" (id 1) (at 80.645 173.99 0))
@@ -16009,7 +16009,7 @@
   )
 
   (symbol (lib_id "asymbols:IRLR7843") (at 362.585 49.53 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d8786764-bb8e-48c6-87ff-68df7c432952)
     (property "Reference" "Q7" (id 0) (at 363.22 43.18 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -16029,7 +16029,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 130.81 79.375 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d90f0874-0e7f-412e-9420-b242c8c535c4)
     (property "Reference" "R51" (id 0) (at 133.35 76.835 90))
     (property "Value" "4,7" (id 1) (at 128.27 76.835 90))
@@ -16044,7 +16044,7 @@
   )
 
   (symbol (lib_id "asymbols:LM2596_DC-DC_Step_Down_Module") (at 290.195 31.75 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid da480728-0002-4b6b-b8fa-8c9a6b14835c)
     (property "Reference" "A1" (id 0) (at 299.085 30.48 0))
     (property "Value" "LM2596 Buck" (id 1) (at 290.195 22.86 0))
@@ -16061,7 +16061,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 241.3 85.725 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid da932e0b-cdc1-451f-ba0d-dfb01c452973)
     (property "Reference" "D139" (id 0) (at 238.76 81.915 0))
     (property "Value" "ALED" (id 1) (at 245.11 81.915 0))
@@ -16076,7 +16076,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 156.21 43.815 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid db02a18c-711f-4300-955c-08287e21e490)
     (property "Reference" "D45" (id 0) (at 153.67 40.005 0))
     (property "Value" "ALED" (id 1) (at 160.02 40.005 0))
@@ -16091,7 +16091,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 88.265 133.35 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid db0f9262-68fa-4717-bc84-6a0987aaf9ab)
     (property "Reference" "D156" (id 0) (at 87.63 129.54 0))
     (property "Value" "ALED" (id 1) (at 93.98 129.54 0))
@@ -16106,7 +16106,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 24.765 66.675 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid db6b8362-1493-4107-af7d-a8faca8bb053)
     (property "Reference" "D73" (id 0) (at 26.035 62.865 0))
     (property "Value" "WLED" (id 1) (at 19.685 62.865 0))
@@ -16121,7 +16121,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 51.435 152.4 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid dc8d89f5-d48d-42dc-bfe6-13790407a5a3)
     (property "Reference" "R81" (id 0) (at 53.975 149.86 90))
     (property "Value" "4.7" (id 1) (at 48.895 149.86 90))
@@ -16136,7 +16136,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 62.865 73.025 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ddd5fa02-5198-4ba0-bc01-83ac223a873c)
     (property "Reference" "R44" (id 0) (at 60.325 70.485 90))
     (property "Value" "4.7" (id 1) (at 65.405 70.485 90))
@@ -16151,7 +16151,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 356.235 196.215 90) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid de5bd4b8-cd44-417a-9c2b-39e7a599c95f)
     (property "Reference" "R154" (id 0) (at 361.95 194.945 90))
     (property "Value" "10K" (id 1) (at 351.155 194.945 90))
@@ -16166,7 +16166,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 360.045 227.33 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid def8d274-97ad-478d-aa03-e5ea7ff11c06)
     (property "Reference" "R107" (id 0) (at 357.505 229.87 90))
     (property "Value" "1K" (id 1) (at 363.855 229.87 90))
@@ -16181,7 +16181,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 62.865 85.725 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid df3eda81-0794-4031-a226-ecf7a0b09905)
     (property "Reference" "R46" (id 0) (at 60.325 83.185 90))
     (property "Value" "4.7" (id 1) (at 65.405 83.185 90))
@@ -16196,7 +16196,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 356.235 48.26 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid dfb7f3d9-55f4-4601-9c1c-5056879156e8)
     (property "Reference" "R102" (id 0) (at 358.775 45.72 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -16215,7 +16215,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 88.265 190.5 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e0016082-7751-498b-985c-e239259ed036)
     (property "Reference" "D192" (id 0) (at 87.63 186.69 0))
     (property "Value" "ALED" (id 1) (at 93.98 186.69 0))
@@ -16230,7 +16230,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 119.38 66.675 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e0d28c88-66bb-4f2d-8e2c-9393c1de9023)
     (property "Reference" "D98" (id 0) (at 121.92 62.865 0))
     (property "Value" "WLED" (id 1) (at 116.84 62.865 0))
@@ -16245,7 +16245,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 51.435 133.35 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e2a440ce-871c-4b03-b33b-631bac820412)
     (property "Reference" "R75" (id 0) (at 53.975 130.81 90))
     (property "Value" "4.7" (id 1) (at 48.895 130.81 90))
@@ -16260,7 +16260,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 66.675 158.75 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e2ead10d-a772-4a21-b4c0-3c9d38515566)
     (property "Reference" "R88" (id 0) (at 64.135 156.21 90))
     (property "Value" "4.7" (id 1) (at 69.215 156.21 90))
@@ -16275,7 +16275,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 231.14 43.815 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e2fcd649-ba7a-46e6-93b5-29855d8a2e4b)
     (property "Reference" "R35" (id 0) (at 228.6 41.275 90))
     (property "Value" "4.7" (id 1) (at 233.68 41.275 90))
@@ -16290,7 +16290,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x03_Male") (at 36.195 209.55 90) (unit 1)
-    (in_bom no) (on_board no)
+    (in_bom no) (on_board no) (fields_autoplaced)
     (uuid e32f857e-09fd-43a2-8f70-e51a0eea6340)
     (property "Reference" "J7" (id 0) (at 27.94 205.105 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -16310,7 +16310,7 @@
   )
 
   (symbol (lib_id "asymbols:IRLR7843") (at 334.645 46.99 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e33e9b8b-2d1f-4515-8e7c-42e86d6442e6)
     (property "Reference" "Q5" (id 0) (at 340.36 42.545 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -16330,7 +16330,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 193.04 37.465 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e3720dd6-ccbe-4b0e-a32e-6e53e5e24239)
     (property "Reference" "D55" (id 0) (at 194.31 33.655 0))
     (property "Value" "WLED" (id 1) (at 187.96 33.655 0))
@@ -16345,7 +16345,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 84.455 98.425 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e48b59ad-f28e-49e0-a69b-5affa0ee4bfc)
     (property "Reference" "D96" (id 0) (at 83.185 94.615 0))
     (property "Value" "ALED" (id 1) (at 89.535 94.615 0))
@@ -16360,7 +16360,7 @@
   )
 
   (symbol (lib_id "asymbols:IRLR7843") (at 191.135 196.85 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e496b9fa-8bc9-4028-b82c-06138b7ef294)
     (property "Reference" "Q38" (id 0) (at 187.96 193.04 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -16380,7 +16380,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 24.765 73.025 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e501367a-c562-4ec4-9750-07d87a37533c)
     (property "Reference" "D75" (id 0) (at 26.035 69.215 0))
     (property "Value" "WLED" (id 1) (at 19.685 69.215 0))
@@ -16395,7 +16395,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 84.455 50.165 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e59b8516-c274-4589-a9cb-a61a2958e1bc)
     (property "Reference" "D24" (id 0) (at 83.185 46.355 0))
     (property "Value" "ALED" (id 1) (at 89.535 46.355 0))
@@ -16410,7 +16410,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 66.675 177.8 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e6a0f6cc-115f-4ca8-bbcc-24daadbd9a70)
     (property "Reference" "R94" (id 0) (at 64.135 175.26 90))
     (property "Value" "4.7" (id 1) (at 69.215 175.26 90))
@@ -16425,7 +16425,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 40.005 184.15 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e71fea7b-074e-401a-8948-e90cd63611fb)
     (property "Reference" "D184" (id 0) (at 42.545 180.34 0))
     (property "Value" "WLED" (id 1) (at 36.195 180.34 0))
@@ -16440,7 +16440,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 36.195 18.415 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e81effbc-571d-46ee-a7df-e7329d12d1d9)
     (property "Reference" "D2" (id 0) (at 38.735 14.605 0))
     (property "Value" "WLED" (id 1) (at 33.655 14.605 0))
@@ -16455,7 +16455,7 @@
   )
 
   (symbol (lib_id "power:GND") (at 224.155 261.62 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e87b2007-e828-4585-9c69-26789749384c)
     (property "Reference" "#PWR0104" (id 0) (at 224.155 267.97 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -16471,7 +16471,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 167.64 79.375 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e8fa9fb9-c1f2-4b4f-9d39-59aa70a7420b)
     (property "Reference" "D114" (id 0) (at 166.37 75.565 0))
     (property "Value" "ALED" (id 1) (at 172.72 75.565 0))
@@ -16486,7 +16486,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 107.95 85.725 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e9a8211e-8abb-402b-b46e-873e1161d01c)
     (property "Reference" "D103" (id 0) (at 109.22 81.915 0))
     (property "Value" "WLED" (id 1) (at 102.87 81.915 0))
@@ -16501,7 +16501,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 252.73 79.375 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ea5dece1-a30a-4551-a4fa-8c254aaf03bf)
     (property "Reference" "D138" (id 0) (at 251.46 75.565 0))
     (property "Value" "ALED" (id 1) (at 257.81 75.565 0))
@@ -16516,7 +16516,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 36.195 73.025 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ea7d9f20-3c2f-4c9d-a18a-9df8b81f4cdd)
     (property "Reference" "D76" (id 0) (at 38.735 69.215 0))
     (property "Value" "WLED" (id 1) (at 33.655 69.215 0))
@@ -16547,7 +16547,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 360.045 233.045 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid eb5c53e4-abe4-4fe7-8c13-ff249bb989d6)
     (property "Reference" "R111" (id 0) (at 357.505 235.585 90))
     (property "Value" "1K" (id 1) (at 363.855 235.585 90))
@@ -16562,7 +16562,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 36.195 24.765 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ecb70d95-6f21-4265-8c5d-cb19682a4273)
     (property "Reference" "D4" (id 0) (at 38.735 20.955 0))
     (property "Value" "WLED" (id 1) (at 33.655 20.955 0))
@@ -16577,7 +16577,7 @@
   )
 
   (symbol (lib_id "asymbols:IRLR7843") (at 191.135 124.46 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ed3bd8ee-5710-45f8-8813-147966fc6609)
     (property "Reference" "Q21" (id 0) (at 187.96 120.65 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -16597,7 +16597,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 47.625 31.115 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ed5261ad-7d35-4c2d-a47d-223ae29aae4f)
     (property "Reference" "R3" (id 0) (at 50.165 28.575 90))
     (property "Value" "4,7" (id 1) (at 45.085 28.575 90))
@@ -16612,7 +16612,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 24.765 98.425 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ee232abd-3ed7-4544-81a6-26e7bc84cc53)
     (property "Reference" "D83" (id 0) (at 26.035 94.615 0))
     (property "Value" "WLED" (id 1) (at 19.685 94.615 0))
@@ -16627,7 +16627,7 @@
   )
 
   (symbol (lib_id "power:GND") (at 203.835 260.35 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ee3a8ee9-1aec-4157-bb7b-e7589ad4c717)
     (property "Reference" "#PWR011" (id 0) (at 203.835 266.7 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -16643,7 +16643,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 388.62 227.33 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ee811d75-cabb-4024-b27a-628bd3237f8c)
     (property "Reference" "R116" (id 0) (at 386.08 229.87 90))
     (property "Value" "1K" (id 1) (at 392.43 229.87 90))
@@ -16658,7 +16658,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 156.21 73.025 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f0063008-a568-48e9-ab00-63665fe63911)
     (property "Reference" "D111" (id 0) (at 153.67 69.215 0))
     (property "Value" "ALED" (id 1) (at 160.02 69.215 0))
@@ -16673,7 +16673,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x03_Male") (at 51.435 209.55 90) (unit 1)
-    (in_bom no) (on_board no)
+    (in_bom no) (on_board no) (fields_autoplaced)
     (uuid f02be46b-b854-48f2-9686-dc8b8367b395)
     (property "Reference" "J8" (id 0) (at 43.18 205.105 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -16693,7 +16693,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 130.81 24.765 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f209ddd5-3def-43d6-a9c8-9a34938dc2a9)
     (property "Reference" "R14" (id 0) (at 133.35 22.225 90))
     (property "Value" "4.7" (id 1) (at 128.27 22.225 90))
@@ -16708,7 +16708,7 @@
   )
 
   (symbol (lib_id "Connector:Screw_Terminal_01x03") (at 111.125 135.89 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f3904b88-c959-430e-9d6c-fa5cf530a63d)
     (property "Reference" "J19" (id 0) (at 111.125 129.54 0))
     (property "Value" "Raptor Terminal" (id 1) (at 107.315 135.89 90))
@@ -16724,7 +16724,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 24.765 18.415 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f3963ab7-1a38-4d95-bf85-8e35e2988314)
     (property "Reference" "D1" (id 0) (at 26.035 14.605 0))
     (property "Value" "WLED" (id 1) (at 19.685 14.605 0))
@@ -16739,7 +16739,7 @@
   )
 
   (symbol (lib_id "Connector:Screw_Terminal_01x02") (at 217.17 229.87 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f3a953eb-8fe8-4f18-b68f-e248f578ad58)
     (property "Reference" "J21" (id 0) (at 213.36 231.14 0))
     (property "Value" "Serial 3" (id 1) (at 217.17 226.695 0))
@@ -16754,7 +16754,7 @@
   )
 
   (symbol (lib_id "asymbols:+14V") (at 290.195 93.345 0) (unit 1)
-    (in_bom no) (on_board no)
+    (in_bom no) (on_board no) (fields_autoplaced)
     (uuid f3ef151c-ddba-4c24-a22c-b75849f0edd3)
     (property "Reference" "#P01" (id 0) (at 290.195 93.345 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -16772,7 +16772,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 167.64 66.675 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f3fb0be4-d59d-4e17-b40a-5589cc2ac4eb)
     (property "Reference" "D110" (id 0) (at 166.37 62.865 0))
     (property "Value" "ALED" (id 1) (at 172.72 62.865 0))
@@ -16787,7 +16787,7 @@
   )
 
   (symbol (lib_id "asymbols:IRLR7843") (at 334.645 71.12 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f4997be3-57ad-4e13-872c-6c7cd3cb036e)
     (property "Reference" "Q9" (id 0) (at 340.36 66.675 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -16807,7 +16807,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 62.865 79.375 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f4a64a1a-73b0-4d70-bd8d-3d779f6457cd)
     (property "Reference" "R45" (id 0) (at 60.325 76.835 90))
     (property "Value" "4.7" (id 1) (at 65.405 76.835 90))
@@ -16822,7 +16822,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 156.21 66.675 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f4f918e8-ea06-4291-9193-7c40c2d5a7aa)
     (property "Reference" "D109" (id 0) (at 153.67 62.865 0))
     (property "Value" "ALED" (id 1) (at 160.02 62.865 0))
@@ -16837,7 +16837,7 @@
   )
 
   (symbol (lib_id "Connector:Screw_Terminal_01x02") (at 213.36 175.26 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f55c7172-1565-4f57-a4fd-86408d0ed7c3)
     (property "Reference" "J27" (id 0) (at 209.55 176.53 0))
     (property "Value" "Misc. Sig." (id 1) (at 213.36 180.975 0))
@@ -16852,7 +16852,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 204.47 98.425 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f605fc1e-24e2-47c3-bb01-92bc298d2148)
     (property "Reference" "D132" (id 0) (at 207.01 94.615 0))
     (property "Value" "WLED" (id 1) (at 201.93 94.615 0))
@@ -16867,7 +16867,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 66.675 139.7 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f88d54c6-f0a0-4346-a847-8d275050e291)
     (property "Reference" "R82" (id 0) (at 64.135 137.16 90))
     (property "Value" "4.7" (id 1) (at 69.215 137.16 90))
@@ -16882,7 +16882,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 215.9 24.765 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f8bb4fbe-d6a3-45f4-ac19-ac1cc6d42225)
     (property "Reference" "R26" (id 0) (at 218.44 22.225 90))
     (property "Value" "4.7" (id 1) (at 213.36 22.225 90))
@@ -16897,7 +16897,7 @@
   )
 
   (symbol (lib_id "asymbols:IRLR7843") (at 125.095 148.59 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f8bf903b-afde-4c18-90be-87a14d0acd6e)
     (property "Reference" "Q28" (id 0) (at 130.81 144.145 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -16917,7 +16917,7 @@
   )
 
   (symbol (lib_id "power:+5V") (at 346.71 188.595 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f8e3e0bd-968c-40d6-9711-70eb10e52a58)
     (property "Reference" "#PWR012" (id 0) (at 346.71 192.405 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -16933,7 +16933,7 @@
   )
 
   (symbol (lib_id "asymbols:IRLR7843") (at 334.645 143.51 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f91454f5-4790-49be-a036-00b27cd7cac8)
     (property "Reference" "Q25" (id 0) (at 341.63 139.065 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -16953,7 +16953,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 139.065 172.72 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f92c9468-d6b3-4818-a8c3-14033e20d329)
     (property "Reference" "R129" (id 0) (at 139.065 170.18 90))
     (property "Value" "10K" (id 1) (at 140.335 175.26 90))
@@ -16968,7 +16968,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 193.04 24.765 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f9dd99e7-c587-4119-a68a-e4e2515efb50)
     (property "Reference" "D51" (id 0) (at 194.31 20.955 0))
     (property "Value" "WLED" (id 1) (at 187.96 20.955 0))
@@ -16983,7 +16983,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 406.4 201.295 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid fb39a4fa-39aa-4a08-89b2-1570fafe6d71)
     (property "Reference" "R159" (id 0) (at 400.685 200.025 90))
     (property "Value" "1K" (id 1) (at 411.48 200.025 90))
@@ -16998,7 +16998,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 228.6 183.515 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid fba3cb21-24e5-438b-b4d0-55e010e704c3)
     (property "Reference" "R133" (id 0) (at 226.06 186.055 90))
     (property "Value" "1K" (id 1) (at 226.06 180.975 90))
@@ -17013,7 +17013,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 100.33 236.855 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid fbf4994b-0e1c-48e2-abba-76c6d5b4ffbb)
     (property "Reference" "C1" (id 0) (at 100.965 233.045 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -17032,7 +17032,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 47.625 50.165 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid fc051e1d-b731-44bd-af50-2417c9a215bb)
     (property "Reference" "R6" (id 0) (at 50.165 47.625 90))
     (property "Value" "4.7" (id 1) (at 45.085 47.625 90))
@@ -17047,7 +17047,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 66.675 133.35 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid fc44af2a-5ee1-485b-a3ad-4ae105e5b292)
     (property "Reference" "R78" (id 0) (at 64.135 130.81 90))
     (property "Value" "4.7" (id 1) (at 69.215 130.81 90))
@@ -17062,7 +17062,7 @@
   )
 
   (symbol (lib_id "Connector:Screw_Terminal_01x03") (at 320.675 154.94 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid fcd5e237-8b6f-445f-9213-dd869f680b53)
     (property "Reference" "J16" (id 0) (at 320.675 148.59 0))
     (property "Value" "Letter Terminal" (id 1) (at 317.5 153.67 90))
@@ -17078,7 +17078,7 @@
   )
 
   (symbol (lib_id "Transistor_BJT:2N3904") (at 136.525 154.94 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid fcd76f20-a1a1-417c-8d3f-c8e0cc6e2d95)
     (property "Reference" "Q32" (id 0) (at 139.7 158.75 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -17098,7 +17098,7 @@
   )
 
   (symbol (lib_id "Transistor_FET:IRF4905") (at 83.82 231.775 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid fd375310-3381-4311-b1cc-0be7b09f83d4)
     (property "Reference" "Q41" (id 0) (at 78.74 231.14 90))
     (property "Value" "IRF4905" (id 1) (at 85.725 237.49 0))
@@ -17114,7 +17114,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 36.195 66.675 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid fd9997ca-8c3c-4a1b-88cd-7d433b3c53f9)
     (property "Reference" "D74" (id 0) (at 38.735 62.865 0))
     (property "Value" "WLED" (id 1) (at 33.655 62.865 0))
@@ -17129,7 +17129,7 @@
   )
 
   (symbol (lib_id "Connector:Screw_Terminal_01x03") (at 320.675 82.55 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid fde00bb7-696f-4691-b585-efd766fdb0f5)
     (property "Reference" "J13" (id 0) (at 320.675 76.2 0))
     (property "Value" "Letter Terminal" (id 1) (at 317.5 81.28 90))
@@ -17145,7 +17145,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 40.005 120.65 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ff86cc37-3953-4718-97fd-6526a395f6ce)
     (property "Reference" "D146" (id 0) (at 42.545 116.84 0))
     (property "Value" "WLED" (id 1) (at 36.195 116.84 0))
@@ -17160,7 +17160,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 215.9 18.415 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ffb00bbe-c23a-493d-b92b-b7ad647cba03)
     (property "Reference" "R25" (id 0) (at 218.44 15.875 90))
     (property "Value" "4.7" (id 1) (at 213.36 15.875 90))
