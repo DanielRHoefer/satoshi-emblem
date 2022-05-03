@@ -7,7 +7,7 @@
   (title_block
     (title "Toyota Satoshi Emblem LED Board")
     (date "2022-04-23")
-    (rev "2.4")
+    (rev "2.5")
     (comment 1 "Daniel Hoefer")
     (comment 2 "Daniel Hoefer")
     (comment 3 "NON_CONFIDENTIAL")
@@ -9955,7 +9955,7 @@
     (uuid 14742c2c-9edd-4391-a874-64e776e4f81e)
     (property "Reference" "Q42" (id 0) (at 161.925 222.885 90))
     (property "Value" "IRF4905" (id 1) (at 161.925 225.425 90))
-    (property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical" (id 2) (at 160.02 226.695 0)
+    (property "Footprint" "afootprints:IRF4905" (id 2) (at 160.02 226.695 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
     (property "Datasheet" "http://www.infineon.com/dgdl/irf4905.pdf?fileId=5546d462533600a4015355e32165197c" (id 3) (at 161.925 231.775 0)
@@ -17102,7 +17102,7 @@
     (uuid fd375310-3381-4311-b1cc-0be7b09f83d4)
     (property "Reference" "Q41" (id 0) (at 78.74 231.14 90))
     (property "Value" "IRF4905" (id 1) (at 85.725 237.49 0))
-    (property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical" (id 2) (at 85.725 226.695 0)
+    (property "Footprint" "afootprints:IRF4905" (id 2) (at 85.725 226.695 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
     (property "Datasheet" "http://www.infineon.com/dgdl/irf4905.pdf?fileId=5546d462533600a4015355e32165197c" (id 3) (at 83.82 231.775 0)
@@ -18128,10 +18128,10 @@
       (reference "Q40") (unit 1) (value "2N3904") (footprint "Package_TO_SOT_THT:TO-92_Inline")
     )
     (path "/fd375310-3381-4311-b1cc-0be7b09f83d4"
-      (reference "Q41") (unit 1) (value "IRF4905") (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
+      (reference "Q41") (unit 1) (value "IRF4905") (footprint "afootprints:IRF4905")
     )
     (path "/14742c2c-9edd-4391-a874-64e776e4f81e"
-      (reference "Q42") (unit 1) (value "IRF4905") (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
+      (reference "Q42") (unit 1) (value "IRF4905") (footprint "afootprints:IRF4905")
     )
     (path "/888085dd-f9d1-4c25-bb33-becfd12e628d"
       (reference "Q43") (unit 1) (value "BC327") (footprint "Package_TO_SOT_THT:TO-92_Inline")
