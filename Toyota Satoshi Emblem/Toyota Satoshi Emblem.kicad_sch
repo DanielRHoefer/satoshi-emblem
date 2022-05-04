@@ -7,7 +7,7 @@
   (title_block
     (title "Toyota Satoshi Emblem LED Board")
     (date "2022-04-23")
-    (rev "2.5")
+    (rev "2.6")
     (comment 1 "Daniel Hoefer")
     (comment 2 "Daniel Hoefer")
     (comment 3 "NON_CONFIDENTIAL")
@@ -9571,7 +9571,7 @@
     (property "Value" "2N3904" (id 1) (at 340.36 130.175 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_TO_SOT_THT:TO-92_Inline" (id 2) (at 340.995 127.635 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (id 2) (at 340.995 127.635 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
     (property "Datasheet" "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF" (id 3) (at 346.075 125.73 0)
@@ -9785,7 +9785,7 @@
     (property "Value" "2N3904" (id 1) (at 340.36 81.915 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_TO_SOT_THT:TO-92_Inline" (id 2) (at 340.995 79.375 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (id 2) (at 340.995 79.375 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
     (property "Datasheet" "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF" (id 3) (at 346.075 77.47 0)
@@ -10274,7 +10274,7 @@
     (property "Value" "2N3904" (id 1) (at 130.81 207.01 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_TO_SOT_THT:TO-92_Inline" (id 2) (at 131.445 205.105 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (id 2) (at 131.445 205.105 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
     (property "Datasheet" "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF" (id 3) (at 136.525 203.2 0)
@@ -12383,7 +12383,7 @@
     (property "Value" "2N3904" (id 1) (at 130.81 134.62 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_TO_SOT_THT:TO-92_Inline" (id 2) (at 131.445 132.715 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (id 2) (at 131.445 132.715 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
     (property "Datasheet" "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF" (id 3) (at 136.525 130.81 0)
@@ -13846,7 +13846,7 @@
     (property "Value" "2N3904" (id 1) (at 340.36 154.305 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_TO_SOT_THT:TO-92_Inline" (id 2) (at 340.995 151.765 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (id 2) (at 340.995 151.765 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
     (property "Datasheet" "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF" (id 3) (at 346.075 149.86 0)
@@ -13881,7 +13881,7 @@
     (property "Value" "2N3904" (id 1) (at 340.36 106.045 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_TO_SOT_THT:TO-92_Inline" (id 2) (at 340.995 103.505 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (id 2) (at 340.995 103.505 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
     (property "Datasheet" "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF" (id 3) (at 346.075 101.6 0)
@@ -15002,7 +15002,7 @@
     (property "Value" "2N3904" (id 1) (at 340.36 57.785 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_TO_SOT_THT:TO-92_Inline" (id 2) (at 340.995 55.245 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (id 2) (at 340.995 55.245 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
     (property "Datasheet" "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF" (id 3) (at 346.075 53.34 0)
@@ -15463,7 +15463,7 @@
     (property "Value" "2N3904" (id 1) (at 130.81 182.88 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_TO_SOT_THT:TO-92_Inline" (id 2) (at 131.445 180.975 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (id 2) (at 131.445 180.975 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
     (property "Datasheet" "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF" (id 3) (at 136.525 179.07 0)
@@ -15748,7 +15748,7 @@
     (property "Value" "2N3904" (id 1) (at 340.36 33.655 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_TO_SOT_THT:TO-92_Inline" (id 2) (at 340.995 31.115 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (id 2) (at 340.995 31.115 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
     (property "Datasheet" "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF" (id 3) (at 346.075 29.21 0)
@@ -17086,7 +17086,7 @@
     (property "Value" "2N3904" (id 1) (at 130.81 158.75 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_TO_SOT_THT:TO-92_Inline" (id 2) (at 131.445 156.845 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (id 2) (at 131.445 156.845 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
     (property "Datasheet" "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF" (id 3) (at 136.525 154.94 0)
@@ -18017,7 +18017,7 @@
       (reference "Q3") (unit 1) (value "IRLR7843") (footprint "afootprints:IRLR7843")
     )
     (path "/d080b80b-8e24-4835-bdca-98a351852494"
-      (reference "Q4") (unit 1) (value "2N3904") (footprint "Package_TO_SOT_THT:TO-92_Inline")
+      (reference "Q4") (unit 1) (value "2N3904") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/e33e9b8b-2d1f-4515-8e7c-42e86d6442e6"
       (reference "Q5") (unit 1) (value "IRLR7843") (footprint "afootprints:IRLR7843")
@@ -18029,7 +18029,7 @@
       (reference "Q7") (unit 1) (value "IRLR7843") (footprint "afootprints:IRLR7843")
     )
     (path "/bf33fdb4-7fad-4a2a-b684-563160065159"
-      (reference "Q8") (unit 1) (value "2N3904") (footprint "Package_TO_SOT_THT:TO-92_Inline")
+      (reference "Q8") (unit 1) (value "2N3904") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/f4997be3-57ad-4e13-872c-6c7cd3cb036e"
       (reference "Q9") (unit 1) (value "IRLR7843") (footprint "afootprints:IRLR7843")
@@ -18041,7 +18041,7 @@
       (reference "Q11") (unit 1) (value "IRLR7843") (footprint "afootprints:IRLR7843")
     )
     (path "/1008f2dd-7392-40de-8ea9-c990f44c3bb7"
-      (reference "Q12") (unit 1) (value "2N3904") (footprint "Package_TO_SOT_THT:TO-92_Inline")
+      (reference "Q12") (unit 1) (value "2N3904") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/8f0ca3ca-e251-49e5-9d73-d95fe312aa21"
       (reference "Q13") (unit 1) (value "IRLR7843") (footprint "afootprints:IRLR7843")
@@ -18053,7 +18053,7 @@
       (reference "Q15") (unit 1) (value "IRLR7843") (footprint "afootprints:IRLR7843")
     )
     (path "/948239e2-e3fd-457b-a447-72feb742c550"
-      (reference "Q16") (unit 1) (value "2N3904") (footprint "Package_TO_SOT_THT:TO-92_Inline")
+      (reference "Q16") (unit 1) (value "2N3904") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/bf9cbfcf-0f17-452d-be52-d5cf8da24a72"
       (reference "Q17") (unit 1) (value "IRLR7843") (footprint "afootprints:IRLR7843")
@@ -18071,13 +18071,13 @@
       (reference "Q21") (unit 1) (value "IRLR7843") (footprint "afootprints:IRLR7843")
     )
     (path "/0853ff58-e64d-4143-b5e8-4b7ceedfdc16"
-      (reference "Q22") (unit 1) (value "2N3904") (footprint "Package_TO_SOT_THT:TO-92_Inline")
+      (reference "Q22") (unit 1) (value "2N3904") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/434c72af-bce5-447e-9037-ac349280aab6"
       (reference "Q23") (unit 1) (value "IRLR7843") (footprint "afootprints:IRLR7843")
     )
     (path "/646e38e8-7543-4c2f-bf38-1cf7d7c4dcb9"
-      (reference "Q24") (unit 1) (value "2N3904") (footprint "Package_TO_SOT_THT:TO-92_Inline")
+      (reference "Q24") (unit 1) (value "2N3904") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/f91454f5-4790-49be-a036-00b27cd7cac8"
       (reference "Q25") (unit 1) (value "IRLR7843") (footprint "afootprints:IRLR7843")
@@ -18095,13 +18095,13 @@
       (reference "Q29") (unit 1) (value "IRLR7843") (footprint "afootprints:IRLR7843")
     )
     (path "/924d96e9-0a37-4069-a61e-b4b485eba1e4"
-      (reference "Q30") (unit 1) (value "2N3904") (footprint "Package_TO_SOT_THT:TO-92_Inline")
+      (reference "Q30") (unit 1) (value "2N3904") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/84eeb39f-304d-4d63-b496-b0c71700a3f6"
       (reference "Q31") (unit 1) (value "IRLR7843") (footprint "afootprints:IRLR7843")
     )
     (path "/fcd76f20-a1a1-417c-8d3f-c8e0cc6e2d95"
-      (reference "Q32") (unit 1) (value "2N3904") (footprint "Package_TO_SOT_THT:TO-92_Inline")
+      (reference "Q32") (unit 1) (value "2N3904") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/8e2ac359-dc33-4ce2-b79d-b453ff026e82"
       (reference "Q33") (unit 1) (value "IRLR7843") (footprint "afootprints:IRLR7843")
@@ -18113,7 +18113,7 @@
       (reference "Q35") (unit 1) (value "IRLR7843") (footprint "afootprints:IRLR7843")
     )
     (path "/cde1c00f-d68c-4397-94f7-c14814d89c43"
-      (reference "Q36") (unit 1) (value "2N3904") (footprint "Package_TO_SOT_THT:TO-92_Inline")
+      (reference "Q36") (unit 1) (value "2N3904") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/58214775-e58a-4ae2-8a3a-a2018ea1ffc8"
       (reference "Q37") (unit 1) (value "IRLR7843") (footprint "afootprints:IRLR7843")
@@ -18125,7 +18125,7 @@
       (reference "Q39") (unit 1) (value "IRLR7843") (footprint "afootprints:IRLR7843")
     )
     (path "/19eca234-e270-47b6-ab60-118a1b67c529"
-      (reference "Q40") (unit 1) (value "2N3904") (footprint "Package_TO_SOT_THT:TO-92_Inline")
+      (reference "Q40") (unit 1) (value "2N3904") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/fd375310-3381-4311-b1cc-0be7b09f83d4"
       (reference "Q41") (unit 1) (value "IRF4905") (footprint "afootprints:IRF4905")
