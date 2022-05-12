@@ -7,7 +7,7 @@
   (title_block
     (title "Toyota Satoshi Emblem LED Board")
     (date "2022-04-23")
-    (rev "2.8")
+    (rev "2.9")
     (comment 1 "Daniel Hoefer")
     (comment 2 "Daniel Hoefer")
     (comment 3 "NON_CONFIDENTIAL")
@@ -13301,7 +13301,7 @@
     (property "Value" "5KP16A" (id 1) (at 78.105 239.395 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Diode_THT:D_P600_R-6_P20.00mm_Horizontal" (id 2) (at 69.85 236.855 0)
+    (property "Footprint" "afootprints:5KP16A" (id 2) (at 69.85 236.855 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://diotec.com/tl_files/diotec/files/pdf/datasheets/5kp65.pdf" (id 3) (at 74.93 235.585 0)
@@ -17907,7 +17907,7 @@
       (reference "D200") (unit 1) (value "1N4007") (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal")
     )
     (path "/7fff4b3e-99ee-4b4b-a178-64a415acffc9"
-      (reference "D201") (unit 1) (value "5KP16A") (footprint "Diode_THT:D_P600_R-6_P20.00mm_Horizontal")
+      (reference "D201") (unit 1) (value "5KP16A") (footprint "afootprints:5KP16A")
     )
     (path "/30d553a8-9bcd-4f37-b633-f50d5eaacb84"
       (reference "D202") (unit 1) (value "1N4739A") (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal")
