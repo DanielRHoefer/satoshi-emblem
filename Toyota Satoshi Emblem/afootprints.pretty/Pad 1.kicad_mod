@@ -1,8 +1,8 @@
 (footprint "Pad 1" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62507A83)
+  (tedit 627CA179)
   (attr smd board_only exclude_from_bom)
-  (fp_text reference "P" (at -0.18 -8.52 unlocked) (layer "F.SilkS")
+  (fp_text reference "P" (at -0.18 -8.52 unlocked) (layer "F.SilkS") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 0317b057-5c97-4eb7-9bf1-2c7f158e9802)
   )

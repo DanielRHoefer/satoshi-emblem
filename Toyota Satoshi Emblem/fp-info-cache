@@ -1,4 +1,4 @@
-19832148712607915
+19833807284126970
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84587,6 +84587,13 @@ LM2596 Buck Converter
 0
 4
 4
+afootprints
+M2.5_Mechanical
+
+
+0
+0
+0
 afootprints
 MODULE_MEGA_PRO_EMBED_CH340G___ATMEGA2560
 
