@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "FIC Board-libraries")(type "KiCad")(uri "${KIPRJMOD}/FIC Board-libraries/FIC Board-libraries.kicad_sym")(options "")(descr ""))
+  (lib (name "asymbols")(type "KiCad")(uri "C:/Users/circu/Documents/Toyota Satoshi Emblem/GitHub/Toyota Satoshi Emblem/asymbols.kicad_sym")(options "")(descr ""))
+)

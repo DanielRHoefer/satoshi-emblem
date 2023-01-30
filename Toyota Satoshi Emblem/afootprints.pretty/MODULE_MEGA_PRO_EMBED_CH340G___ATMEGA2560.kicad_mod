@@ -1,6 +1,6 @@
 (footprint "MODULE_MEGA_PRO_EMBED_CH340G___ATMEGA2560" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 627618B5)
+  (tedit 63C49AD9)
   (attr through_hole)
   (fp_text reference "REF**" (at -23.295 -19.685) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -112,9 +112,49 @@
   (pad "TX" thru_hole circle (at -12.5 17.78) (size 1.6764 1.6764) (drill 0.8) (layers *.Cu *.Mask) (tstamp 6e105729-aba0-497c-a99e-c32d2b3ddb6d))
   (pad "VIN_1" thru_hole circle (at -25.2 17.78) (size 1.6764 1.6764) (drill 0.8) (layers *.Cu *.Mask) (tstamp 32667662-ae86-4904-b198-3e95f11851bf))
   (pad "VIN_2" thru_hole circle (at -25.2 15.24) (size 1.6764 1.6764) (drill 0.8) (layers *.Cu *.Mask) (tstamp 67f6e996-3c99-493c-8f6f-e739e2ed5d7a))
-  (model "${KIPRJMOD}/amodels/MEGA 2560 PRO (EMBED).stp"
-    (offset (xyz 0 0 8))
+  (model "${KIPRJMOD}/FIC Board-models/MEGA 2560 PRO (EMBED).stp"
+    (offset (xyz 0 0 8.91))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))
+  )
+  (model "${KIPRJMOD}/FIC Board-models/round_header/3x2 female.stp"
+    (offset (xyz 25.6 -10.17 1.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -180 0 -90))
+  )
+  (model "${KIPRJMOD}/FIC Board-models/round_header/3x2 female.stp"
+    (offset (xyz 23.05 17.78 1.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 180 0 90))
+  )
+  (model "${KIPRJMOD}/FIC Board-models/round_header/16x2 female.stp"
+    (offset (xyz 10.35 17.77 1.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 -180 0))
+  )
+  (model "${KIPRJMOD}/FIC Board-models/round_header/21x2 female.stp"
+    (offset (xyz -2.35 -15.25 1.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 180 0))
+  )
+  (model "${KIPRJMOD}/FIC Board-models/round_header/3x2 male.stp"
+    (offset (xyz 25.6 0 4.4))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 180 90))
+  )
+  (model "${KIPRJMOD}/FIC Board-models/round_header/3x2 male.stp"
+    (offset (xyz 25.6 12.68 4.4))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 180 90))
+  )
+  (model "${KIPRJMOD}/FIC Board-models/round_header/16x2 male.stp"
+    (offset (xyz -12.5 17.77 4.4))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 180 0))
+  )
+  (model "${KIPRJMOD}/FIC Board-models/round_header/21x2 male.stp"
+    (offset (xyz -25.2 -15.25 4.4))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 180 0))
   )
 )

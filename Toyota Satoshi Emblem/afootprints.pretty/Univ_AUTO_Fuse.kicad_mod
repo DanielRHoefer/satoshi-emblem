@@ -1,6 +1,6 @@
 (footprint "Univ_AUTO_Fuse" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6270BAE8)
+  (tedit 63D0A0B6)
   (attr through_hole)
   (fp_text reference "REF**" (at 10.55 5.8) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -24,7 +24,7 @@
   (pad "1" thru_hole rect (at 3.2 1.4) (size 2.5 2) (drill oval 2 0.8) (layers *.Cu *.Mask) (tstamp faccf3d4-a954-4318-8eb1-1eaa329daffb))
   (pad "2" thru_hole rect (at 16.6 1.4) (size 2.5 2) (drill oval 2 0.8) (layers *.Cu *.Mask) (tstamp da1e1db6-acfd-4b48-8de3-bf4a7021f3c4))
   (pad "2" thru_hole rect (at 16.6 5.4) (size 2.5 2) (drill oval 1.8 0.8) (layers *.Cu *.Mask) (tstamp fd101819-86ac-4160-bf54-bb42ded58e5b))
-  (model "${KIPRJMOD}/amodels/Auto_Fuse_Holder.stp"
+  (model "${KIPRJMOD}/FIC Board-models/Auto_Fuse_Holder.stp"
     (offset (xyz 9.8 -3.7 3.25))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
