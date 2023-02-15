@@ -1,4 +1,4 @@
-19840598005158237
+19840599288057186
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -51247,19 +51247,19 @@ Connector
 63
 63
 FIC Board-footprints
-L_12x12mm_H8mm
-
-
-0
-2
-2
-FIC Board-footprints
 SiC45X
 
 
 0
 25
 25
+FIC Board-footprints
+Wurth 742792903 L_12x12mm_H8mm
+
+
+0
+2
+2
 FIC Board-footprints
 horizontal_potentiometer
 
