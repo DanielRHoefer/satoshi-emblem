@@ -1,0 +1,24 @@
+Circuit: * C:\Users\Daniel Hoefer\Documents\Toyota Satoshi Emblem\GitHub\FIC Board\FIC Board\LTSpice\Over Under Protection.asc
+
+Limiting fall time of source v1 to 9.76996e-16
+Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 3.65222 to 3.65222
+
+Date: Wed Dec  6 22:59:47 2023
+Total elapsed time: 8.099 seconds.
+
+tnom = 27
+temp = 27
+method = Gear
+totiter = 476471
+traniter = 476425
+tranpoints = 198792
+accept = 129370
+rejected = 69423
+matrix size = 243
+fillins = 162
+solver = Normal
+Avg thread counts: 4.0/4.0/1.0/1.0
+Matrix Compiler1: 16.73 KB object code size  3.2/1.7/[1.5]
+Matrix Compiler2: 20.10 KB object code size  1.0/1.8/[0.7]
+

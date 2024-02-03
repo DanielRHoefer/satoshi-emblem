@@ -1,0 +1,22 @@
+Circuit: * C:\Users\Daniel Hoefer\Documents\Toyota Satoshi Emblem\GitHub\FIC Board\FIC Board\LTSpice\Draft1.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Sep 25 13:11:17 2023
+Total elapsed time: 0.179 seconds.
+
+tnom = 27
+temp = 27
+method = Gear
+totiter = 2085
+traniter = 2082
+tranpoints = 1042
+accept = 1042
+rejected = 0
+matrix size = 4
+fillins = 1
+solver = Normal
+Avg thread counts: 1.7/2.3/2.3/1.7
+Matrix Compiler1:      13 opcodes  0.4/[0.2]/0.7
+Matrix Compiler2:      24 opcodes  0.2/[0.2]/0.3
+
