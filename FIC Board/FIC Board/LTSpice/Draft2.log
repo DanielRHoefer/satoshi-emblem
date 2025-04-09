@@ -1,22 +1,41 @@
 Circuit: * C:\Users\Daniel Hoefer\Documents\Toyota Satoshi Emblem\GitHub\FIC Board\FIC Board\LTSpice\Draft2.asc
 
-Direct Newton iteration for .op point succeeded.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
 
-Date: Mon Sep 25 17:41:01 2023
-Total elapsed time: 0.116 seconds.
+
+Date: Thu Oct 10 23:25:59 2024
+Total elapsed time: 0.206 seconds.
 
 tnom = 27
 temp = 27
 method = Gear
-totiter = 2091
-traniter = 2088
-tranpoints = 1045
-accept = 1045
-rejected = 0
+totiter = 2608
+traniter = 2256
+tranpoints = 1129
+accept = 1107
+rejected = 22
 matrix size = 12
-fillins = 7
+fillins = 3
 solver = Normal
-Avg thread counts: 1.7/2.3/2.3/1.7
-Matrix Compiler1: 1.29 KB object code size  1.4/0.8/[0.7]
-Matrix Compiler2: off  [0.4]/0.7/0.5
+Avg thread counts: 1.6/2.2/2.2/1.6
+Matrix Compiler1: 688 bytes object code size  0.5/0.2/[0.2]
+Matrix Compiler2: 1.07 KB object code size  0.7/1.5/[0.3]
 

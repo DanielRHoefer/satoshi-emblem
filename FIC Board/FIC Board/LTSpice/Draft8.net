@@ -1,0 +1,18 @@
+* C:\Users\Daniel Hoefer\Documents\Toyota Satoshi Emblem\GitHub\FIC Board\FIC Board\LTSpice\Draft8.asc
+XU1 5v N001 tri 10v 0 LT1457
+XU2 N003 5v 10v 0 N002 LT1017
+R1 N003 tri 50k
+R2 comp N003 100k
+R3 comp N002 1k
+R4 N002 10v 1k
+R5 comp N001 53k
+C1 tri N001 4.7n
+V2 10v 0 10
+R6 10v 5v 100k
+R7 5v 0 100k
+.tran 0 2m 0 10u
+.ic v(tri) = 1
+.lib LTC1.lib
+.lib LTC2.LIB
+.backanno
+.end

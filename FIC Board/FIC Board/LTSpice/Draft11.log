@@ -1,0 +1,112 @@
+Circuit: * C:\Users\Daniel Hoefer\Documents\Toyota Satoshi Emblem\GitHub\FIC Board\FIC Board\LTSpice\Draft11.asc
+
+WARNING: Less than two connections to node nc_01.  This node is used by v1.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+vernier = 0.5
+vernier = 0.25
+vernier = 0.333333
+Gmin = 0.00843904
+vernier = 0.444444
+Gmin = 0.0033396
+vernier = 0.592592
+vernier = 0.296296
+vernier = 0.148148
+vernier = 0.074074
+Gmin = 0.00198584
+vernier = 0.037037
+vernier = 0.0493827
+Gmin = 0.00181679
+vernier = 0.0658435
+vernier = 0.0329218
+Gmin = 0.00163364
+vernier = 0.0164609
+vernier = 0.00823044
+vernier = 0.0109739
+Gmin = 0.00161251
+vernier = 0.0146319
+Gmin = 0.0015618
+vernier = 0.0195092
+vernier = 0.0260122
+Gmin = 0.00148223
+vernier = 0.034683
+vernier = 0.046244
+Gmin = 0.00136453
+vernier = 0.0616586
+Gmin = 0.00119345
+vernier = 0.0822114
+vernier = 0.109615
+vernier = 0.0548076
+Gmin = 0.00101253
+vernier = 0.0274038
+vernier = 0.0137019
+vernier = 0.00685095
+Gmin = 0.000998781
+vernier = 0.00342548
+vernier = 0.00171274
+vernier = 0.000856369
+vernier = 0.000428184
+Gmin = 0
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 2.84091%
+Source Step = 4.73485%
+Source Step = 6.62879%
+Source Step = 8.52273%
+Source Step = 10.4167%
+vernier = 0.09375
+Source Step = 12.8788%
+Source Step = 15.7197%
+Source Step = 18.5606%
+Source Step = 21.4015%
+Source Step = 24.2424%
+vernier = 0.140625
+Source Step = 27.7936%
+Source Step = 32.0549%
+Source Step = 36.3163%
+Source Step = 40.5777%
+Source Step = 44.839%
+vernier = 0.210938
+Source Step = 49.9527%
+Source Step = 56.3447%
+Source Step = 62.7367%
+Source Step = 69.1288%
+Source Step = 75.5208%
+vernier = 0.316406
+Source Step = 82.8717%
+Source Step = 83.8492%
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 77.0833%
+Source stepping failed
+
+Pseudo Transient succeeded in finding the operating point at 14.7542 s.
+
+Date: Fri Jan 17 23:29:06 2025
+Total elapsed time: 3.180 seconds.
+
+tnom = 27
+temp = 27
+method = Gear
+totiter = 54508
+traniter = 2364
+tranpoints = 1059
+accept = 1054
+rejected = 943
+matrix size = 273
+fillins = 590
+solver = Normal
+Avg thread counts: 1.6/2.3/2.3/1.6
+Matrix Compiler1: 49.72 KB object code size  7.0/2.9/[1.4]
+Matrix Compiler2: 33.10 KB object code size  6.4/8.6/[3.4]
+

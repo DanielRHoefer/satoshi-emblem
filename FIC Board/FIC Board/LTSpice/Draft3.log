@@ -1,0 +1,72 @@
+Circuit: * C:\Users\Daniel Hoefer\Documents\Toyota Satoshi Emblem\GitHub\FIC Board\FIC Board\LTSpice\Draft3.asc
+
+Direct Newton iteration for .op point succeeded.
+.step run=0
+.step run=1
+.step run=2
+.step run=3
+.step run=4
+.step run=5
+.step run=6
+.step run=7
+.step run=8
+.step run=9
+
+
+Measurement: gain
+  step	MAX(mag(v(out)/v(s)))	FROM	TO
+     1	(39.7412dB,0°)	10	1e+07
+     2	(39.4789dB,0°)	10	1e+07
+     3	(40.2103dB,0°)	10	1e+07
+     4	(39.6579dB,0°)	10	1e+07
+     5	(39.6917dB,0°)	10	1e+07
+     6	(40.1468dB,0°)	10	1e+07
+     7	(39.4552dB,0°)	10	1e+07
+     8	(39.9662dB,0°)	10	1e+07
+     9	(40.2711dB,0°)	10	1e+07
+    10	(40.8043dB,0°)	10	1e+07
+
+Measurement: low3db
+  step	mag(v(out)/v(s))=gain/sqrt(2)
+     1	729.649
+     2	677.493
+     3	806.991
+     4	735.451
+     5	722.603
+     6	705.073
+     7	721.597
+     8	712.991
+     9	839.106
+    10	824.105
+
+Measurement: high3db
+  step	mag(v(out)/v(s))=gain/sqrt(2)
+     1	707381
+     2	733002
+     3	662476
+     4	715971
+     5	712922
+     6	668830
+     7	736961
+     8	683801
+     9	656287
+    10	605588
+
+
+Date: Wed Oct 30 11:01:57 2024
+Total elapsed time: 0.817 seconds.
+
+tnom = 27
+temp = 27
+method = Gear
+totiter = 6
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 12
+fillins = 0
+solver = Normal
+Avg thread counts: 16.0/0.0/16.0/3.3
+Matrix Compiler1:      36 opcodes
+Matrix Compiler2: 920 bytes object code size
